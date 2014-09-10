@@ -91,8 +91,7 @@ all of the following:
   interests, or investments?)
   ```
 
-## Curated Pedagogical Resources (ten resources, each with metadata, a
-screenshot, and a 150-word annotation)
+## Curated Pedagogical Resources (ten resources, each with metadata, a screenshot, and a 150-word annotation)
 
 ```
 * Screenshot (PNG or JPG), if applicable
