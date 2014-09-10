@@ -136,7 +136,7 @@ Items may include:
 
 ## 6. Works Cited
 
-``
+```
 A works cited for all references in your entry, including your ten
 resources, your five related materials, and anything referenced in your
 curatorial statement.
