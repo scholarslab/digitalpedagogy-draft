@@ -67,6 +67,9 @@ Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
 * Educator Innovator, http://educatorinnovator.org/
 * “Connected Learning: An Agenda for Research and Design,”
   http://clrn.dmlhub.net/publications/connected-learning-an-agenda-for-research-and-design
+* Rob Pope, *Textual Intervention: Critical and Creative Strategies for Literary Studies.* Psychology Press, 1995. — and this 1995 review: David E. Stacey, Book Review: *Textual Intervention: Critical and Creative Strategies for Literacy* by Rob Pope.” JAC Online 17.1: [http://www.jaconlinejournal.com/archives/vol17.1.html] Direct link: [http://www.jaconlinejournal.com/archives/vol17.1/stacy-textual.pdf] 
+* Kits for Cultural History projects, UVic Maker Lab. Summary presentation:[http://maker.uvic.ca/lima/] Blog posts: [http://maker.uvic.ca/category/kits/] Sample kit: [http://maker.uvic.ca/debut/]
+* Johanna Drucker, “Theory as Praxis: The Poetics of Electronic Textuality.” Review Essay, *Modernism/Modernity* 9.4 (2002) 683.691. Online: [https://muse.jhu.edu/journals/modernism-modernity/v009/9.4drucker.html]
 
 ## Curatorial Statement (roughly 750-800 words, MLA Format)
 
