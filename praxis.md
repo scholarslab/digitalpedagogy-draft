@@ -31,7 +31,7 @@ Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
   http://dada.cca.edu/~drosner/materials/syllabus.html (syllabus)
 * “Victorian Literature + Victorian Informatics”,
   http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/
-* Praxis Program, http://praxis.scholarslab.org
+* Praxis Program, http://praxis.scholarslab.org Purdom
 * CEISMIC
 * Digital Cultural Heritage Fieldschool,
   http://chi.anthropology.msu.edu/fieldschool/
@@ -51,9 +51,9 @@ Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
 * “Interview with T. Mills Kelly on ‘Lying about the Past’”
   http://dmlcentral.net/blog/aleks-krotoski/interview-t-mills-kelly-lying-about-past-and-media-literacy
 * Playing the Past.
-* “Doing Feminist Theory with Digital Video,”
+* “Doing Feminist Theory with Digital Video,” 
   http://adanewmedia.org/2014/07/issue5-hurst/ and
-  http://www.doingfeministtheory.ca/
+  http://www.doingfeministtheory.ca/ Purdom
 * Wikipedia
   * Jeremy's wikipedia assignment
     http://clioweb.org/2009/04/05/assigning-wikipedia-in-a-us-history-survey/
@@ -62,8 +62,8 @@ Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
   * A Mills Kelly interview, like
     http://dmlcentral.net/blog/aleks-krotoski/interview-t-mills-kelly-lying-about-past-and-media-literacy
 * **Pedagogy of the Oppressed**,
-  http://fablearn.stanford.edu/fellows/blog/pedagogy-oppressed-practice-praxis
-* **New Culture of Learning**, http://www.newcultureoflearning.com/
+  http://fablearn.stanford.edu/fellows/blog/pedagogy-oppressed-practice-praxis Purdom
+* **New Culture of Learning**, http://www.newcultureoflearning.com/ Purdom
 * Educator Innovator, http://educatorinnovator.org/
 * “Connected Learning: An Agenda for Research and Design,”
   http://clrn.dmlhub.net/publications/connected-learning-an-agenda-for-research-and-design
