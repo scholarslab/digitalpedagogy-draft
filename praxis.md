@@ -19,10 +19,10 @@ Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
 
 * “Bibliocircuitry and the Design of the Alien Everday,”
   http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051.
-  (article)
+  (article) **JEREMY**
 * "How Did They Make That?" Miriam Posner,
   http://miriamposner.com/blog/how-did-they-make-that-the-video/
-  (article)
+  (article) **JEREMY**
   * Video,
     http://miriamposner.com/blog/how-did-they-make-that-the-video/
   * Zotero Bibliography,
@@ -51,7 +51,7 @@ Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
 * “Interview with T. Mills Kelly on ‘Lying about the Past’”
   http://dmlcentral.net/blog/aleks-krotoski/interview-t-mills-kelly-lying-about-past-and-media-literacy
 * Playing the Past.
-* “Doing Feminist Theory with Digital Video,” 
+* “Doing Feminist Theory with Digital Video,”
   http://adanewmedia.org/2014/07/issue5-hurst/ and
   http://www.doingfeministtheory.ca/ **PURDOM**
 * Wikipedia
@@ -68,8 +68,15 @@ Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
 * “Connected Learning: An Agenda for Research and Design,”
   http://clrn.dmlhub.net/publications/connected-learning-an-agenda-for-research-and-design
 * Rob Pope, *Textual Intervention: Critical and Creative Strategies for Literary Studies.* Psychology Press, 1995. — and this 1995 review: David E. Stacey, Book Review: *Textual Intervention: Critical and Creative Strategies for Literacy* by Rob Pope.” JAC Online 17.1: [http://www.jaconlinejournal.com/archives/vol17.1.html] Direct link: [http://www.jaconlinejournal.com/archives/vol17.1/stacy-textual.pdf] **BETHANY**
-* Kits for Cultural History projects, UVic Maker Lab. Summary presentation:[http://maker.uvic.ca/lima/] Blog posts: [http://maker.uvic.ca/category/kits/] Sample kit: [http://maker.uvic.ca/debut/]
-* Johanna Drucker, “Theory as Praxis: The Poetics of Electronic Textuality.” Review Essay, *Modernism/Modernity* 9.4 (2002) 683.691. Online: [https://muse.jhu.edu/journals/modernism-modernity/v009/9.4drucker.html]
+* Kits for Cultural History projects, UVic Maker Lab. Summary
+  presentation:[http://maker.uvic.ca/lima/] Blog posts:
+  [http://maker.uvic.ca/category/kits/] Sample kit:
+  [http://maker.uvic.ca/debut/] **JEREMY**
+* Johanna Drucker, “Theory as Praxis: The Poetics of Electronic
+  Textuality.” Review Essay, *Modernism/Modernity* 9.4 (2002) 683.691.
+  Online:
+  [https://muse.jhu.edu/journals/modernism-modernity/v009/9.4drucker.html]
+  **JEREMY**
 
 ## Curatorial Statement (roughly 750-800 words, MLA Format)
 
