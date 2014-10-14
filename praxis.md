@@ -31,7 +31,9 @@ Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
   http://dada.cca.edu/~drosner/materials/syllabus.html (syllabus) **BETHANY**
 * “Victorian Literature + Victorian Informatics”,
   http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/ **BETHANY**
-* Praxis Program, http://praxis.scholarslab.org **PURDOM**
+* Praxis Program, http://praxis.scholarslab.org **PURDOM** <!---Wonder
+  if Praxis Network would be a better entry and allow us to cite the
+programs within the network like the DCHF-->
 * CEISMIC
 * Digital Cultural Heritage Fieldschool,
   http://chi.anthropology.msu.edu/fieldschool/
