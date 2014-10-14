@@ -11,7 +11,7 @@ critique, and generate* theoretical/intellectual concepts.
 * **Praxis as teacher/illuminator of theory** - You can make a thing
   and, in the process of doing so, reveal and learn
   theoretical/intellectual concepts.
-* * Praxis as critic of theory** - You can make a thing and, in the
+* **Praxis as critic of theory** - You can make a thing and, in the
   process or with the result, challenge or question existing concepts.
 * **Praxis as genesis of theory** - You can make a thing and, in the
   process or result, come up with a new theory or idea.
