@@ -133,5 +133,5 @@ Items may include:
 ```
 A works cited for all references in your entry, including your ten
 resources, your five related materials, and anything referenced in your
-curatorial statement.
+curatorial statement. MLA Format.
 ```
