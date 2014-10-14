@@ -61,11 +61,12 @@ programs within the network like the DCHF-->
     http://clioweb.org/2009/04/05/assigning-wikipedia-in-a-us-history-survey/
   * Shawn Graham's wikipedia assignment:
     http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/
+**Purdom**
   * A Mills Kelly interview, like
-    http://dmlcentral.net/blog/aleks-krotoski/interview-t-mills-kelly-lying-about-past-and-media-literacy
+    http://dmlcentral.net/blog/aleks-krotoski/interview-t-mills-kelly-lying-about-past-and-media-literacy <!---syllabus--> **Purdom**
 * **Pedagogy of the Oppressed**,
-  http://fablearn.stanford.edu/fellows/blog/pedagogy-oppressed-practice-praxis **PURDOM**
-* **New Culture of Learning**, http://www.newcultureoflearning.com/ **PURDOM**
+  http://fablearn.stanford.edu/fellows/blog/pedagogy-oppressed-practice-praxis 
+* **New Culture of Learning**, http://www.newcultureoflearning.com/ 
 * Educator Innovator, http://educatorinnovator.org/
 * “Connected Learning: An Agenda for Research and Design,”
   http://clrn.dmlhub.net/publications/connected-learning-an-agenda-for-research-and-design
