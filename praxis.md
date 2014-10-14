@@ -19,10 +19,10 @@ Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
 
 * “Bibliocircuitry and the Design of the Alien Everday,”
   http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051.
-  (article) **JEREMY**
+  (sample student projects) **JEREMY**
 * "How Did They Make That?" Miriam Posner,
   http://miriamposner.com/blog/how-did-they-make-that-the-video/
-  (article) **JEREMY**
+  (tech showcase/how-to) **JEREMY**
   * Video,
     http://miriamposner.com/blog/how-did-they-make-that-the-video/
   * Zotero Bibliography,
@@ -30,56 +30,28 @@ Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
 * “Extraordinary Materials,”
   http://dada.cca.edu/~drosner/materials/syllabus.html (syllabus) **BETHANY**
 * “Victorian Literature + Victorian Informatics”,
-  http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/ **BETHANY**
-* Praxis Program, http://praxis.scholarslab.org **PURDOM** <!---Wonder
-  if Praxis Network would be a better entry and allow us to cite the
-programs within the network like the DCHF-->
-* CEISMIC
-* Digital Cultural Heritage Fieldschool,
-  http://chi.anthropology.msu.edu/fieldschool/
-* Student project from Bill's class
-  http://williamjturkel.net/teaching/history-9832b-interactive-exhibit-design-winter-2014/
-  OR Programming Historian http://programminghistorian.org
-* Invisible Australians, http://invisibleaustralians.org/ - Kate
-  Bagnall/Tim Sherratt collaboration; Her scholarship, his code.
-* Trans*H4ack, http://www.transhack.org/  - Example introducing a
-  hackathon.
+  http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/  (syllabus) **BETHANY**
+* Praxis Network, http://praxis-network.org (institutional models) **PURDOM**
 * Chapter Five of Dennis E. Baron's **A Better Pencil: Readers, Writers,
   and the Digital Revolution**,
   http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA74#v=onepage&q=modeling%20clay&f=false
   * Lesson plan on writing with clay. Encourages students to think about
     how technology affects writing/reading/understanding. Foregrounds
-    materiality of expression. **BETHANY**
-* “Interview with T. Mills Kelly on ‘Lying about the Past’”
-  http://dmlcentral.net/blog/aleks-krotoski/interview-t-mills-kelly-lying-about-past-and-media-literacy
-* Playing the Past.
+    materiality of expression. (class exercise) **BETHANY**
+* Mills Kelly on ‘Lying about the Past’ syllabus
+  http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf (syllabus) 
 * “Doing Feminist Theory with Digital Video,”
   http://adanewmedia.org/2014/07/issue5-hurst/ and
-  http://www.doingfeministtheory.ca/ **PURDOM**
-* Wikipedia
-  * Jeremy's wikipedia assignment
-    http://clioweb.org/2009/04/05/assigning-wikipedia-in-a-us-history-survey/
-  * Shawn Graham's wikipedia assignment:
-    http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/
+  http://www.doingfeministtheory.ca/ (reflective theory/pedagogy article) **PURDOM**
+* Shawn Graham's wikipedia assignment:
+    http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/ (class exercise)
 **Purdom**
-  * A Mills Kelly interview, like
-    http://dmlcentral.net/blog/aleks-krotoski/interview-t-mills-kelly-lying-about-past-and-media-literacy <!---syllabus--> **Purdom**
-* **Pedagogy of the Oppressed**,
-  http://fablearn.stanford.edu/fellows/blog/pedagogy-oppressed-practice-praxis 
-* **New Culture of Learning**, http://www.newcultureoflearning.com/ 
-* Educator Innovator, http://educatorinnovator.org/
-* “Connected Learning: An Agenda for Research and Design,”
-  http://clrn.dmlhub.net/publications/connected-learning-an-agenda-for-research-and-design
-* Rob Pope, *Textual Intervention: Critical and Creative Strategies for Literary Studies.* Psychology Press, 1995. — and this 1995 review: David E. Stacey, Book Review: *Textual Intervention: Critical and Creative Strategies for Literacy* by Rob Pope.” JAC Online 17.1: [http://www.jaconlinejournal.com/archives/vol17.1.html] Direct link: [http://www.jaconlinejournal.com/archives/vol17.1/stacy-textual.pdf] **BETHANY**
 * Kits for Cultural History projects, UVic Maker Lab. Summary
   presentation:[http://maker.uvic.ca/lima/] Blog posts:
   [http://maker.uvic.ca/category/kits/] Sample kit:
-  [http://maker.uvic.ca/debut/] **JEREMY**
-* Johanna Drucker, “Theory as Praxis: The Poetics of Electronic
-  Textuality.” Review Essay, *Modernism/Modernity* 9.4 (2002) 683.691.
-  Online:
-  [https://muse.jhu.edu/journals/modernism-modernity/v009/9.4drucker.html]
-  **JEREMY**
+  [http://maker.uvic.ca/debut/]  **JEREMY** (sample student projects)
+
+
 
 ## Curatorial Statement (roughly 750-800 words, MLA Format)
 
@@ -145,6 +117,16 @@ Items may include:
 * Blog post
 * Website
 ```
+* **Pedagogy of the Oppressed**,
+  http://fablearn.stanford.edu/fellows/blog/pedagogy-oppressed-practice-praxis 
+* **New Culture of Learning**, http://www.newcultureoflearning.com/ 
+* “Connected Learning: An Agenda for Research and Design,”
+  http://clrn.dmlhub.net/publications/connected-learning-an-agenda-for-research-and-design
+* Rob Pope, *Textual Intervention: Critical and Creative Strategies for Literary Studies.* Psychology Press, 1995. — and this 1995 review: David E. Stacey, Book Review: *Textual Intervention: Critical and Creative Strategies for Literacy* by Rob Pope.” JAC Online 17.1: [http://www.jaconlinejournal.com/archives/vol17.1.html] Direct link: [http://www.jaconlinejournal.com/archives/vol17.1/stacy-textual.pdf] 
+* Johanna Drucker, “Theory as Praxis: The Poetics of Electronic
+  Textuality.” Review Essay, *Modernism/Modernity* 9.4 (2002) 683.691.
+  Online:
+  [https://muse.jhu.edu/journals/modernism-modernity/v009/9.4drucker.html]
 
 ## 6. Works Cited
 
