@@ -64,6 +64,11 @@ Annotation:
 professor of [http://sites.stfx.ca/womens_and_gender_studies/](Women's and Gender Studies) at [http://www.stfx.ca/](St. Francis Xavier University) in Antigonish, Nova Scotia.
 Annotation:
 Reflective theory, pedagogy article
+-purposeful integration of Paulo Freire's definition of praxis
+('reflection and action upon the world in order to change it')
+-exploration of strategies to nurture deep learning through reflection
+and praxis (noticed limited and under-theorized pedagogogical
+strategies)
 
 #Shawn Graham's Wiki Assignment
 *Screenshot: ![screen shot](../images/wikiblitz/)
