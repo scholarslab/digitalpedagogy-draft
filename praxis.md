@@ -28,16 +28,16 @@ Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
   * Zotero Bibliography,
     https://www.zotero.org/groups/howdidtheymakethat/items
 * “Extraordinary Materials,”
-  http://dada.cca.edu/~drosner/materials/syllabus.html (syllabus) **BETHANY**
+  http://dada.cca.edu/~drosner/materials/syllabus.html (syllabus) **Purdom**
 * “Victorian Literature + Victorian Informatics”,
-  http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/  (syllabus) **BETHANY**
+  http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/  (syllabus) **Purdom**
 * Praxis Network, http://praxis-network.org (institutional models) **PURDOM**
 * Chapter Five of Dennis E. Baron's **A Better Pencil: Readers, Writers,
   and the Digital Revolution**,
   http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA74#v=onepage&q=modeling%20clay&f=false
   * Lesson plan on writing with clay. Encourages students to think about
     how technology affects writing/reading/understanding. Foregrounds
-    materiality of expression. (class exercise) **BETHANY**
+    materiality of expression. (class exercise) **Purdom**
 * Mills Kelly on ‘Lying about the Past’ syllabus
   http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf (syllabus) 
 * “Doing Feminist Theory with Digital Video,”
