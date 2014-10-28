@@ -38,36 +38,80 @@
 ### Vision Statement: How do you envision or understand “praxis” and its
 relation to pedagogy?
 
-### Scholarly rationale and criteria for selections: why were the
-specific curated resources selected? How did you approach selection?
+Praxis, as we understand it and practice it in our day-to-day academic
+work, is generally less concerned with end products, and more concerned
+by the *process* in which things are made, and the manner in which they
+are made. More specifically, we see praxis as the process of making to
+realize, expose, critique, and generate theoretical/ideological
+concepts. We find four particularly useful applications of praxis.
 
-* We wanted to feature a range of resources: Syllabi that discuss,
-  organize, and present praxis to students; Lessons that detail process
-  behind a particular praxis assigment and possible outcomes; Project
-  showcases that demonstrate completed assigments and reflections on
-  those assigments, or elaborate on the tools and process that go into
-  making a particular project; Articles that reflect and elaborate on
-  the importance of praxis for teaching and learning.
-* We wanted to feature resources that demonstrate the interconnected,
-  symbiotic relationships between praxis and theory. All of these
-  resources highlight this importance; that neither can or should exist
-  in isolation, and exploring one should necessarily mean exploring the
-  other.
-* We wanted to feature resources that do a particularly good job
-  demonstrating that the best way to learn the value of praxis is by
-  **acutally doing praxis**. These resources do not just talk about the
-  importance of praxis in the abstract; They all
-* We wanted to select publicly available, open access resources.
+* **Praxis as an embodiment of an idea.** Set out to make or do something
+  that embodies an existing theory or idea.
+* **Praxis as teacher/illuminator of an idea.** In the process of making
+  or doing something, reveal and learn theoretical/intellectual.
+  concepts.
+* **Praxis as critic of an idea.** In the process of making or doing
+  something, challenge or question existing concepts.
+* **Praxis as genesis of an idea.** In the process of making or doing,
+  devise a new theory or idea.
 
-### Why teach praxis now? Important issues?
+### Praxis and Our Pedagogy
 
+Almost everything we do—our internal projects, our collaborations with
+faculty, our graduate fellowships and training opportunities—features
+praxis as a central concern and goal. We more interested in making
+people, not tools, and in that endeavor we almost always emphasize
+learning *how* to do something and *why* to do something, and not merely
+make things for people. Praxis is a central tenent of the ethos of the
+Scholars' Lab and  for nearly all our interactions with collaborators.
 
+We have two graduate fellowship programs where we emphasize the
+importance of praxis in humanities work: Digital Humanities Fellowship
+and Praxis Program Fellowship. Our Digital Humanities Fellowship gives
+students
 
-### Particular intersections with your pedagogical philosophy: How and
-where do you teach issues related to this keyword? What are learning
-outcomes? What resources do you use? What are our students' backgrounds,
-interests, or investments?
+Similarly, our Praxis Program reimagines graduate training in the
+humanities for the demands of the digital age.
 
+Our students are typically humanities graduate students, and with a few
+exceptions are PhD students who have yet to advance. With both of these
+programs, we're less concerned with finished, polished products, and
+more concerned with ensuring that the process of making is
+instructive.
+
+We feel it is especially important to nurture an environment that
+encourages praxis.
+
+### Rationale and Criteria
+
+Our approach in selecting resources involved three broad requirements:
+First, we decided to select publicly available, open access resources.
+Praxis seems most successful when as many impedements to development and
+process are removed.
+
+Second, we wanted to include a range of resources: Syllabi that discuss,
+organize, and present praxis to students; Lessons that detail process
+behind a particular praxis assigment and possible outcomes; Project
+showcases that demonstrate completed assigments and reflections on
+those assigments, or elaborate on the tools and process that go into
+making a particular project; Articles that reflect and elaborate on the
+importance of praxis for teaching and learning. It was important to us
+to include resources ranging in application and type, to show that
+considerations of praxis can be addressed in a variety of formats.
+
+Third, we felt it important to select resources that demonstrate the
+interconnected, symbiotic relationships among praxis, theory, and
+product. All of these resources highlight this importance: that none can
+or should exist in isolation, and exploring one should necessarily mean
+exploring the others. In particular, we feature resources that succeed
+in demonstrating that the best way to learn the value of praxis is by
+*acutally engaging in praxis*. These resources do not just talk about
+the importance of praxis in the abstract; They all provide examples of
+praxis in action.
+
+### Why Teach Praxis
+
+[Add text.]
 
 
 ## Curated Pedagogical Resources (ten resources, each with metadata, a screenshot, and a 150-word annotation)
@@ -96,15 +140,28 @@ will be intergrated in this repository (curateteaching/digitalpedagogy).
 
 ### “Bibliocircuitry and the Design of the Alien Everday”
 
-* What is it? -
-* Why is it useful? How does it exemplify digital pedagogy? -
-* How to integrate it into a course? -
+An article detailing student exploration of the concept of *reflective
+design* by investigating the book as interface. The projects perfectly
+highlight the way . They also emphasize that *digital* often involves
+considerations regarding hardware and physical/tactile design.Teachers
+might a particular object or set of objects and ask students to figure
+out ways to alter or enhance their interface.
 
 ### “Doing Feminist Theory with Digital Video”
 
-* What is it? -
-* Why is it useful? How does it exemplify digital pedagogy? -
-* How to integrate it into a course? -
+* What is it?
+
+An article that reflects on how.
+
+* Why is it useful? How does it exemplify digital pedagogy?
+
+This resource is useful because it details how specific theoretical
+considerations (e.g. Feminism) shape and can by shaped by praxis
+applications. An important consideration for praxis is.
+
+* How to integrate it into a course?
+
+
 
 ### “Extraordinary Materials”
 
@@ -114,27 +171,51 @@ will be intergrated in this repository (curateteaching/digitalpedagogy).
 
 ### “How Did They Make That?”
 
-* What is it? -
-* Why is it useful? How does it exemplify digital pedagogy? -
-* How to integrate it into a course? -
+* What is it?
+
+Posner offers a modest gallery of various digital projects, and breaks
+each down into the tools and techniques used in their production. The
+goal is to show how each is made, so others might also make similar
+projects and build from them.
+
+The site would be a perfect starting point for students before
+their own digital projects. Have students visit the site, then visit each example project, to see
+how the list of parts and techniques used on a project correspond to
+specific results. Get a feel for what different types of projects offer.
 
 ### “The Kits for Cultural History at HASTAC 2014”
 
-* What is it? -
-* Why is it useful? How does it exemplify digital pedagogy? -
+* What is it?
+
+An introduction and rationale for the *Kits for Cultural History*
+projects at the University of Victoria Makerlab.
+
+* Why is it useful? How does it exemplify digital pedagogy?
+
+
+
 * How to integrate it into a course? -
 
 ### “Lying about the Past”
 
-* What is it? -
-* Why is it useful? How does it exemplify digital pedagogy? -
-* How to integrate it into a course? -
+* What is it?
+
+Mills Kelly's 2008 syllabus for a course teaching students how to
+debunk historial hoaxes, and how to create their own.
+
+* Why is it useful? How does it exemplify digital pedagogy?
+
+* How to integrate it into a course?
+
 
 ### **Praxis Network**
 
-* What is it? -
-* Why is it useful? How does it exemplify digital pedagogy? -
-* How to integrate it into a course? -
+* What is it?
+
+
+* Why is it useful? How does it exemplify digital pedagogy?
+
+* How to integrate it into a course?
 
 ### “Victorian Literature + Victorian Informatics”
 
