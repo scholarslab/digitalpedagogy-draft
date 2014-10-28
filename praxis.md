@@ -73,6 +73,8 @@ students
 Similarly, our Praxis Program reimagines graduate training in the
 humanities for the demands of the digital age.
 
+[dialogical--two-way, iterative, collaborative]
+
 Our students are typically humanities graduate students, and with a few
 exceptions are PhD students who have yet to advance. With both of these
 programs, we're less concerned with finished, polished products, and
@@ -110,7 +112,7 @@ the importance of praxis in the abstract; They all provide examples of
 praxis in action.
 
 ### Why Teach Praxis
-
+process, action with specific qualities-action that
 [Add text.]
 
 
