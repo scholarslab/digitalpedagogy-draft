@@ -189,7 +189,7 @@ Washington)
 
 (Extra)ordinary *Materials* is a course focusing on "thinking and experimenting with materials that have extraordinary properties around ordinary practices as an entry point for identifying new affordances in form-giving work." With a detailed syllabus and a blend of intriguing readings, hands-on experiements, and student participation, (Extra)ordinary *Materials* exemplifies *Praxis* through deep investigations of specific materials along side explorations of the ideas of  "mutability, reproduction, age and belonging."
 
-Readings are paired wiht hands-on, both individual and class, investigations and reflective reports
+Readings are paired with hands-on, both individual and class, investigations and reflective reports
 
 * Why is it useful? How does it exemplify digital pedagogy? 
 *thoughtful learning outcomes with explicit pairing of hands-on work and theoretical readings to best explore range of materials and properties.
@@ -256,13 +256,7 @@ shot](../images/victorian-literature.jpg)
 * Name of Creator: [http://rachelsagnerbuurma.org/](Rachel Sagner Buurma)
 * Attribution Information: Rachel Sagner Buurma is an associate professor in the [http://www.swarthmore.edu/english-literature](Department of English Literature) at [http://www.swarthmore.edu](Swarthmore College).
 
-* What is it?
- Victorian Literature and Victorian Inforamtics is a richly
-detailed syllabus exploring "canonical Victorian literature through the
-lens of Victorian Informatian theory and knowledge organization
-practices." Buurma blends close, middle-distance, and distant reading
-techniques with an emphasis on digital tools as a way of reading and
-re-reading/re-making literary texts.
+Victorian Literature and Victorian Inforamtics is a richly detailed syllabus exploring "canonical Victorian literature through the lens of Victorian Informatian theory and knowledge organization practices." Buurma blends close, middle-distance, and distant reading techniques with an emphasis on digital tools as a way of reading and re-reading/re-making literary texts.
 
 * Why is it useful? How does it exemplify digital pedagogy?
 With a variety of workshops, demonstrations, discussions, and readings,
