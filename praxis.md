@@ -67,13 +67,27 @@ Scholars' Lab and  for nearly all our interactions with collaborators.
 
 We have two graduate fellowship programs where we emphasize the
 importance of praxis in humanities work: Digital Humanities Fellowship
-and Praxis Program Fellowship. Our Digital Humanities Fellowship gives
-students
+and Praxis Program Fellowship. Our Digital Humanities Fellowship offers
+students time and community to implement a digital component of their
+research. Scaffolding tech skills with mentorship models an iterative
+process of collaborative work. The Fellowship carves out time for
+reflection, experimentation, as well as support for implementing the
+results into a digital project.
 
 Similarly, our Praxis Program reimagines graduate training in the
-humanities for the demands of the digital age.
+humanities for the demands of the digital age. The Praxis Programs
+unites six graduate students from across the humanities and social
+sciences to design and build a digital tool. Like the Digital Humanities
+Fellowship, the Praxis Program seeks to provide time--time for
+exploration, for reflection, for collaboration--to reimagine what
+scholarly work looks like. Praxis Fellows work alongside the Scholars'
+Lab staff throughout the arch of creating, building, and launching a
+digital project.
 
-[dialogical--two-way, iterative, collaborative]
+[Jeremy--I am trying to say something about how the program
+intends to integrate both the leveraging of the various skills and
+disciplines each Praxer brings as well as the technical skills learned;
+that we strive to make transparent how we do as much as why we do...]
 
 Our students are typically humanities graduate students, and with a few
 exceptions are PhD students who have yet to advance. With both of these
@@ -94,7 +108,7 @@ process are removed.
 Second, we wanted to include a range of resources: Syllabi that discuss,
 organize, and present praxis to students; Lessons that detail process
 behind a particular praxis assigment and possible outcomes; Project
-showcases that demonstrate completed assigments and reflections on
+showcases that d emonstrate completed assigments and reflections on
 those assigments, or elaborate on the tools and process that go into
 making a particular project; Articles that reflect and elaborate on the
 importance of praxis for teaching and learning. It was important to us
@@ -112,9 +126,10 @@ the importance of praxis in the abstract; They all provide examples of
 praxis in action.
 
 ### Why Teach Praxis
-process, action with specific qualities-action that
-[Add text.]
+process, action with specific qualities-action that are humanely
+focused;
 
+Praxis
 
 ## Curated Pedagogical Resources (ten resources, each with metadata, a screenshot, and a 150-word annotation)
 
@@ -149,27 +164,42 @@ considerations regarding hardware and physical/tactile design.Teachers
 might a particular object or set of objects and ask students to figure
 out ways to alter or enhance their interface.
 
-### “Doing Feminist Theory with Digital Video”
+### “Doing Feminist Theory through Digital Video”
+* Screenshot:![screen shot](../images/feminist-theory/)
+* Source URL: [http://adanewmedia.org/2014/07/issue5-hurst/](http://adanewmedia.org/2014/07/issue5-hurst/)
+* Name of Creator: [http://www.rachelhurst.ca/Dr._Rachel_Alpha_Johnston_Hurst/Welcome%21.html](Rachel Alpha Johnston Hurst)
+* Attribution Information: Rachel Alpha Johnston Hurst is an associate
+professor of [http://sites.stfx.ca/womens_and_gender_studies/](Women's and Gender Studies) at [http://www.stfx.ca/](St. Francis Xavier University) in Antigonish, Nova Scotia.
 
-* What is it?
+*Doing Feminist Theory through Digital Video* is a reflective essay detailing Hurst's undergraduate assignment and the literature informing the development of the assignment. Noticing her undergraduates were struggling to connect the rich theoretical discussions within the classroom to 'real life', Hurst details how specific theoretical considerations (e.g. Feminism) shape and can by shaped by praxis applications.
 
-An article that reflects on how.
+Hurst applies Paulo Freire's definition of praxis, 'reflection and action upon the world in order to change it', to her assignment with the goal of fostering sustained deep relfection, both of the theoretical foundations for her course as well as on the student's emerging scholarly voice.
 
-* Why is it useful? How does it exemplify digital pedagogy?
-
-This resource is useful because it details how specific theoretical
-considerations (e.g. Feminism) shape and can by shaped by praxis
-applications. An important consideration for praxis is.
-
-* How to integrate it into a course?
-
+A semester-long, service-learing project is difficult to integrate into an existing course. Rather, Hurst's article outlines strategies for nurturing deep learning through relfection and praxis. Reflecting on her process as well as implementation, Hurst points to methods for demystifying knowledge creation through itterative, collaborative work.
 
 
 ### “Extraordinary Materials”
+* Screenshot: ![screen
+shot](../images/extraordinary-materials.jpg)
+* Source URL:
+[http://dada.cca.edu/~drosner/materials/syllabus.html](http://dada.cca.edu/~drosner/materials/syllabus.html)
+* Name of Creator: [http://danielarosner.com](Daniela K. Rosner)
+* Attribution Information: Daniela Rosner is an assistant professor of [http://www.hcde.washington.edu/] (Human Centered Design and Engineering) and co-direct the [http://depts.washington.edu/tatlab/blog/](TAT Lab) at the [http://www.washington.edu/](University of
+Washington)
 
-* What is it? -
-* Why is it useful? How does it exemplify digital pedagogy? -
-* How to integrate it into a course? -
+(Extra)ordinary *Materials* is a course focusing on "thinking and experimenting with materials that have extraordinary properties around ordinary practices as an entry point for identifying new affordances in form-giving work." With a detailed syllabus and a blend of intriguing readings, hands-on experiements, and student participation, (Extra)ordinary *Materials* exemplifies *Praxis* through deep investigations of specific materials along side explorations of the ideas of  "mutability, reproduction, age and belonging."
+
+Readings are paired wiht hands-on, both individual and class, investigations and reflective reports
+
+* Why is it useful? How does it exemplify digital pedagogy? 
+*thoughtful learning outcomes with explicit pairing of hands-on work and theoretical readings to best explore range of materials and properties.
+*readings paired with hands-on (individual and class exercises) investigations
+*reporting back
+*intentional interventions and less intended (less noticed)
+interventions such as aging or wear
+
+* How to integrate it into a course?
+
 
 ### “How Did They Make That?”
 
@@ -220,18 +250,46 @@ debunk historial hoaxes, and how to create their own.
 * How to integrate it into a course?
 
 ### “Victorian Literature + Victorian Informatics”
+* Screenshot: ![screen
+shot](../images/victorian-literature.jpg)
+* Source URL:[http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/] (http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/)
+* Name of Creator: [http://rachelsagnerbuurma.org/](Rachel Sagner Buurma)
+* Attribution Information: Rachel Sagner Buurma is an associate professor in the [http://www.swarthmore.edu/english-literature](Department of English Literature) at [http://www.swarthmore.edu](Swarthmore College).
 
-* What is it? -
-* Why is it useful? How does it exemplify digital pedagogy? -
+* What is it?
+ Victorian Literature and Victorian Inforamtics is a richly
+detailed syllabus exploring "canonical Victorian literature through the
+lens of Victorian Informatian theory and knowledge organization
+practices." Buurma blends close, middle-distance, and distant reading
+techniques with an emphasis on digital tools as a way of reading and
+re-reading/re-making literary texts.
+
+* Why is it useful? How does it exemplify digital pedagogy?
+With a variety of workshops, demonstrations, discussions, and readings,
+Buurma's syllabus exemplifies 
+
+
 * How to integrate it into a course? -
 
 ### “The Wikiblitz: A Wikipedia Editing Assignment in a First Year Undergraduate Class (Spring 2012 version)”
+* Screenshot: ![screen shot](../images/wikiblitz/)
+* Source URL: [http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/]( http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/)
+* Name of Creator: [http://www.graeworks.net/](Shawn Graham)
+* Attribution Information: Shawn Graham is an assistant professor in the
+[http://www.carleton.ca/history/](Department of History) at [http://carleton.ca/](Carleton University).
 
 * What is it? -
 * Why is it useful? How does it exemplify digital pedagogy? -
 * How to integrate it into a course? -
 
 ### “Writing on Clay”
+* Screenshot:![screen shot](../images/writing-on-clay/)
+* Source URL: [http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA74#v=onepage&q=modeling%20clay&f=false](Lesson Plan, Writing on Clay)
+* Name of Creator: [http://www.english.illinois.edu/-people-/faculty/debaron/](Dennis E. Baron)
+* Attribution Information: Dennis Baron is a professor of [http://www.english.illinois.edu/](English) at the [http://illinois.edu/](University of Illinois).
+Annotation:
+ * Lesson plan (in-class exercise) on writing with clay. Encourages students to think about how technology affects writing/reading/understanding.
+ * Foregrounds materiality of expression.
 
 * What is it? -
 * Why is it useful? How does it exemplify digital pedagogy? -
