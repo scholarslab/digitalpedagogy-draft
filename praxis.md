@@ -187,16 +187,9 @@ shot](../images/extraordinary-materials.jpg)
 * Attribution Information: Daniela Rosner is an assistant professor of [http://www.hcde.washington.edu/] (Human Centered Design and Engineering) and co-direct the [http://depts.washington.edu/tatlab/blog/](TAT Lab) at the [http://www.washington.edu/](University of
 Washington)
 
-(Extra)ordinary *Materials* is a course focusing on "thinking and experimenting with materials that have extraordinary properties around ordinary practices as an entry point for identifying new affordances in form-giving work." With a detailed syllabus and a blend of intriguing readings, hands-on experiements, and student participation, (Extra)ordinary *Materials* exemplifies *Praxis* through deep investigations of specific materials along side explorations of the ideas of  "mutability, reproduction, age and belonging."
+(Extra)ordinary *Materials* is a course focusing on "thinking and experimenting with materials that have extraordinary properties around ordinary practices as an entry point for identifying new affordances in form-giving work." With a detailed syllabus and a blend of intriguing readings, hands-on experiements, and student participation, (Extra)ordinary *Materials* exemplifies praxis through deep investigations of specific materials along side explorations of the ideas of  "mutability, reproduction, age and belonging."
 
-Readings are paired with hands-on, both individual and class, investigations and reflective reports
-
-* Why is it useful? How does it exemplify digital pedagogy? 
-*thoughtful learning outcomes with explicit pairing of hands-on work and theoretical readings to best explore range of materials and properties.
-*readings paired with hands-on (individual and class exercises) investigations
-*reporting back
-*intentional interventions and less intended (less noticed)
-interventions such as aging or wear
+Readings are paired with hands-on, both individual and class, investigations and reflective reports. Rosner includes thoughtful learning outcomes along with explicit pairings of hands-on work and theoretical readings to best explore range of materials and properties.
 
 * How to integrate it into a course?
 
@@ -211,8 +204,7 @@ goal is to show how each is made, so others might also make similar
 projects and build from them.
 
 The site would be a perfect starting point for students before
-their own digital projects. Have students visit the site, then visit each example project, to see
-how the list of parts and techniques used on a project correspond to
+their own digital projects. Have students visit the site, then visit each example project, to see how the list of parts and techniques used on a project correspond to
 specific results. Get a feel for what different types of projects offer.
 
 ### “The Kits for Cultural History at HASTAC 2014”
@@ -240,30 +232,21 @@ debunk historial hoaxes, and how to create their own.
 * How to integrate it into a course?
 
 
-### **Praxis Network**
+### Praxis Network
 
-* What is it?
+The Praxis Network models eight allied, but differently-inflected humanities and social sciences methods training. Each program is engaged in rethinking pedagogy and collaborative partnerships 
 
-
-* Why is it useful? How does it exemplify digital pedagogy?
-
-* How to integrate it into a course?
+Realizing each institution is made up of a particular ecosystem unique to a specific institution, the Praxis Network showcases examples of approaches to collaborative, humanities-based methods training for digital work. Insitutitions and programs seeking to enact similar efforts can compare missions, structures, research foci, support, strategic directions, and nuts and bolts of the Praxis Network programs. 
 
 ### “Victorian Literature + Victorian Informatics”
-* Screenshot: ![screen
-shot](../images/victorian-literature.jpg)
+* Screenshot: ![screenshot](../images/victorian-literature.jpg)
 * Source URL:[http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/] (http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/)
 * Name of Creator: [http://rachelsagnerbuurma.org/](Rachel Sagner Buurma)
 * Attribution Information: Rachel Sagner Buurma is an associate professor in the [http://www.swarthmore.edu/english-literature](Department of English Literature) at [http://www.swarthmore.edu](Swarthmore College).
 
 Victorian Literature and Victorian Inforamtics is a richly detailed syllabus exploring "canonical Victorian literature through the lens of Victorian Informatian theory and knowledge organization practices." Buurma blends close, middle-distance, and distant reading techniques with an emphasis on digital tools as a way of reading and re-reading/re-making literary texts.
 
-* Why is it useful? How does it exemplify digital pedagogy?
-With a variety of workshops, demonstrations, discussions, and readings,
-Buurma's syllabus exemplifies 
-
-
-* How to integrate it into a course? -
+With a variety of workshops, demonstrations, discussions, and readings, Buurma's syllabus exemplifies ways to incorporate new critical methods and interpretations into familiar material. Individual topics along with related readings, tools, and workshops can readily be incorporated into an existing course, or a new course could be developed along a similar model.
 
 ### “The Wikiblitz: A Wikipedia Editing Assignment in a First Year Undergraduate Class (Spring 2012 version)”
 * Screenshot: ![screen shot](../images/wikiblitz/)
@@ -272,22 +255,19 @@ Buurma's syllabus exemplifies
 * Attribution Information: Shawn Graham is an assistant professor in the
 [http://www.carleton.ca/history/](Department of History) at [http://carleton.ca/](Carleton University).
 
-* What is it? -
-* Why is it useful? How does it exemplify digital pedagogy? -
-* How to integrate it into a course? -
+In his article, Graham describes an in-class assignment designed to "explore how knowledge is created and represented on Wikipedia, by working to improve a single article." Intended to provide deep understandings of how knowledge is created by and used via digital platforms, Graham's assignment was situated in a course exploring historical materials on the Internet. Graham's article reflects on the overall course and the specifics of the Wikipedia assignment with a particular focus on preparing students to engage with and critique the tools for wriitng history in our digital age.
+
+Graham's article is particularly useful as he outlines the context in which the assignment was situated into the broader course, the expected and unexpected outcomes, his rubric, and student feedback. Graham details the work invested in preparing students for the 2-course sessions assignment, which smooth the process of adapting the assignment for other courses.
 
 ### “Writing on Clay”
 * Screenshot:![screen shot](../images/writing-on-clay/)
 * Source URL: [http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA74#v=onepage&q=modeling%20clay&f=false](Lesson Plan, Writing on Clay)
 * Name of Creator: [http://www.english.illinois.edu/-people-/faculty/debaron/](Dennis E. Baron)
 * Attribution Information: Dennis Baron is a professor of [http://www.english.illinois.edu/](English) at the [http://illinois.edu/](University of Illinois).
-Annotation:
- * Lesson plan (in-class exercise) on writing with clay. Encourages students to think about how technology affects writing/reading/understanding.
- * Foregrounds materiality of expression.
 
-* What is it? -
-* Why is it useful? How does it exemplify digital pedagogy? -
-* How to integrate it into a course? -
+Baron's deceptively simple in-class exercise on writing with clay encourages students to think about how technology affects their writing, reading, and understanding. Foregrounding the materiality of expression, Baron's exercise makes obvious the many layers of the physical act of communication. To write on clay, the student must prepare the surface, estimate the expected space needed for the writing, adjust methods for correcting mistakes or revising the text, as well as calls into question ways of sharing and preserving the finished writing.
+
+Baron's exercise requires little pre-planning, but does demand time for reflection. 
 
 
 ## 5. Related Materials (Bulleted List)
