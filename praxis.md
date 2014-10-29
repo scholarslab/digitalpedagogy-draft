@@ -144,8 +144,9 @@ will be intergrated in this repository (curateteaching/digitalpedagogy).
 
 An article detailing student exploration of the concept of *reflective
 design* by investigating the book as interface. The projects perfectly
-highlight the way . They also emphasize that *digital* often involves
-considerations regarding hardware and physical/tactile design.Teachers
+highlight the way that an emphasis on, and exposure of, process leads to
+unforseen insights. They also emphasize that *digital* often involves
+considerations regarding hardware and physical/tactile design. Teachers
 might a particular object or set of objects and ask students to figure
 out ways to alter or enhance their interface.
 
