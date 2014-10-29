@@ -173,17 +173,14 @@ applications. An important consideration for praxis is.
 
 ### “How Did They Make That?”
 
-* What is it?
-
-Posner offers a modest gallery of various digital projects, and breaks
+Miriam Posner offers a modest gallery of various digital projects, and breaks
 each down into the tools and techniques used in their production. The
 goal is to show how each is made, so others might also make similar
-projects and build from them.
-
-The site would be a perfect starting point for students before
-their own digital projects. Have students visit the site, then visit each example project, to see
-how the list of parts and techniques used on a project correspond to
-specific results. Get a feel for what different types of projects offer.
+projects and build from them. The site would be a perfect starting point
+for students before their own digital projects. Have students visit the
+site, then visit each example project, to see how the list of parts and
+techniques used on a project correspond to specific results. Get a feel
+for what different types of projects offer.
 
 ### “The Kits for Cultural History at HASTAC 2014”
 
