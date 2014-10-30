@@ -24,13 +24,13 @@ accessible. Could integrate the practice of individual investigtations easily, i
 
 
 #Victorian Literature
-*Screenshot: ![screen
+* Screenshot: ![screen
 shot](../images/victorian-literature.jpg)
-*Source URL:[http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/] (http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/)
-*Name of Creator: [http://rachelsagnerbuurma.org/](Rachel Sagner Buurma)
-*Attribution Information: Rachel Sagner Buurma is an associate professor in the [http://www.swarthmore.edu/english-literature](Department of English Literature) at [http://www.swarthmore.edu](Swarthmore College).
-*Annotation:
-*Victorian Literature and Victorian Inforamtics is a richly
+* Source URL:[http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/] (http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/)
+* Name of Creator: [http://rachelsagnerbuurma.org/](Rachel Sagner Buurma)
+* Attribution Information: Rachel Sagner Buurma is an associate professor in the [http://www.swarthmore.edu/english-literature](Department of English Literature) at [http://www.swarthmore.edu](Swarthmore College).
+* Annotation:
+* Victorian Literature and Victorian Inforamtics is a richly
 detailed syllabus exploring "canonical Victorian literature through the lens of Victorian Informatian theory and knowledge organization practices." 
 *Blending close, middle-distance, and distant reading techniques
 *emphasis on digital tools as a way of reading and
@@ -48,10 +48,10 @@ re-reading/re-making literary texts
 -CHI-FS
 
 #Lesson Plan on Writing on Clay
-*Screenshot:![screen shot](../images/writing-on-clay/)
-*Source URL: [http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA74#v=onepage&q=modeling%20clay&f=false](Lesson Plan, Writing on Clay)
-*Name of Creator: [http://www.english.illinois.edu/-people-/faculty/debaron/](Dennis E. Baron)
-*Attribution Information: Dennis Baron is a professor of [http://www.english.illinois.edu/](English) at the [http://illinois.edu/](University of Illinois).
+* Screenshot:![screen shot](../images/writing-on-clay/)
+* Source URL: [http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA74#v=onepage&q=modeling%20clay&f=false](Lesson Plan, Writing on Clay)
+* Name of Creator: [http://www.english.illinois.edu/-people-/faculty/debaron/](Dennis E. Baron)
+* Attribution Information: Dennis Baron is a professor of [http://www.english.illinois.edu/](English) at the [http://illinois.edu/](University of Illinois).
 Annotation:
  * Lesson plan (in-class exercise) on writing with clay. Encourages students to think about how technology affects writing/reading/understanding.
  * Foregrounds materiality of expression.
@@ -71,10 +71,10 @@ and praxis (noticed limited and under-theorized pedagogogical
 strategies)
 
 #Shawn Graham's Wiki Assignment
-*Screenshot: ![screen shot](../images/wikiblitz/)
-*Source URL: [http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/]( http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/)
-*Name of Creator: [http://www.graeworks.net/](Shawn Graham)
-*Attribution Information: Shawn Graham is an assistant professor in the
+* Screenshot: ![screen shot](../images/wikiblitz/)
+* Source URL: [http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/]( http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/)
+* Name of Creator: [http://www.graeworks.net/](Shawn Graham)
+* Attribution Information: Shawn Graham is an assistant professor in the
 [http://www.carleton.ca/history/](Department of History) at [http://carleton.ca/](Carleton University).
 Annotation:
 Class exercise
