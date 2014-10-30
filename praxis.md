@@ -223,8 +223,20 @@ Get a feel for what different types of projects offer.
 * Name of Creator
 * Attribution Information:
 
-An introduction and rationale for the *Kits for Cultural History*
-projects at the University of Victoria Makerlab.
+Nina Belojevic provides an introduction and rationale for the *Kits for
+Cultural History* projects at the University of Victoria Makerlab. The
+kits help humanists explore questions and topics related to cultural
+history. They are not intended to be simple instruction manuals, with
+step-by-step instructions to complete, but rather encourage inquiry,
+modification, and reflection. Examples include: *Electric Jewels*, which
+explores 19th-century electric jewelry, and *Tennis for Two*, which
+looks at the first video game.  The kits exemplify that praxis is deeper
+than simply eschewing prodecure or problem solving.
+
+One obvious way to integrate these into the classroom is to try
+recreating the projects themselves. From there, see if students can
+create their own, and document the process through which they create
+their kits.
 
 ### “Lying about the Past”
 
@@ -234,8 +246,16 @@ projects at the University of Victoria Makerlab.
 * Name of Creator: T. Mills Kelly
 * Attribution Information:
 
-T. Mills Kelly's 2008 syllabus for a course teaching students how to debunk
-historial hoaxes, and how to create their own.
+In 2001, T. Mills Kelly taught a course entitled "Lying about the Past."
+The course covered how to debunk historial hoaxes, and for the final
+project students had to create their own and see if they could fool
+anyone.
+
+We think the most beneficial way to integrate this into teaching is to
+take note of how Kelly presents the class, the topic explored.
+Throughout the syllabus, its clear that Kelly considers his students to
+be his collaborators, and depends on them to shape the course as much,
+if not more, than he himself shapes it.
 
 ### Praxis Network
 
