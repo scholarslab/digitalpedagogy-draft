@@ -172,7 +172,7 @@ work.
 
 
 ### “Extraordinary Materials”
-* Screenshot: ![screen shot](../images/extraordinary-materials.jpg)
+* Screenshot: ![screen shot](images/extraordinary-materials.jpg)
 * Source URL:
   [http://dada.cca.edu/~drosner/materials/syllabus.html](http://dada.cca.edu/~drosner/materials/syllabus.html)
 * Name of Creator: [http://danielarosner.com](Daniela K. Rosner)
@@ -306,6 +306,7 @@ sessions assignment, which smooth the process of adapting the assignment
 for other courses.
 
 ### “Writing on Clay”
+
 * Screenshot: ![screen shot](images/writing-on-clay.jpg)
 * Source URL:
   [http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA74#v=onepage&q=modeling%20clay&f=false](Lesson
@@ -328,7 +329,6 @@ ways of sharing and preserving the finished writing.
 
 Baron's exercise requires little pre-planning, but does demand time for
 reflection.
-
 
 ## 5. Related Materials (Bulleted List)
 
