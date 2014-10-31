@@ -34,91 +34,32 @@
   (class exercise)
 * “Writing on Clay,” **A Better Pencil: Readers, Writers, and the
   Digital Revolution,** Dennis E. Baron,
-  http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA71#v=onepage&q=modeling%20clay&f=false
+  http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA71#v=onepage&q=modeling%20clay&f=false (class exercise)
 
 ## Curatorial Statement
 
-Praxis, as we understand it and practice it in our day-to-day academic
-work, is generally less concerned with end products, and more concerned
-by the *process* through which things are made, and the manner in which
-they are made. More specifically, we see praxis as the process of making
-to realize, expose, critique, and generate theoretical/ideological
-concepts. We find four particularly useful considerations of praxis.
+We understand *praxis* as thoughtful performance: a way of making and building less oriented toward the construction of end-products and more concerned
+with exposing the processes through which ideas become objects in space or actions in time. In the classroom, a praxis-oriented pedagogy helps students engage with theory through concrete action, and promotes understanding of the complex, playful, and materially-grounded ways in which theoretical or ideological concepts can be realized, exposed, critiqued, and iteratively generated. The pedagogical resources gathered here connect with *praxis* as an opportunity to:
 
-* **Praxis as an embodiment of an idea.** Set out to make or do
-  something that embodies an existing theory or idea.
-* **Praxis as teacher/illuminator of an idea.** In the process of making
-  or doing something, reveal and learn theoretical/intellectual.
-  concepts.
-* **Praxis as critic of an idea.** In the process of making or doing
-  something, challenge or question existing concepts.
-* **Praxis as genesis of an idea.** In the process of making or doing,
-  devise a new theory or idea.
+* **embody an idea.** Students make or do something that represents an existing theory or idea. They demonstrate prior understanding through successful performance and instantiation.
+* **illuminate an idea.** In the process of making or doing something, students reveal theoretical and intellectual complexities that may have been hidden to them in their initial understanding.
+* **critique an idea.** Students challenge or question existing concepts or ideologies by building or performing new alternatives.
+* **generate an idea.** New theories or concepts arise, often iteratively and playfully, through performance, construction of objects or systems, and embodied understanding.
 
-### Our Pedagogy
+### Our Own Pedagogy
 
-Almost everything we do—our internal projects, our collaborations with
-faculty, our graduate fellowships and training opportunities—features
-praxis as a central concern and goal. We are more interested in making
-people, not tools, and in that endeavor we almost always emphasize
-learning *how* to do something and *why* to do something, and not merely
-make things for people. Praxis is a central tenent of the ethos of the
-Scholars' Lab and for nearly all our interactions with collaborators.
+We have compiled these resources from the perspective of three digital humanities practitioners engaged in the extra-curricular mentoring and methodological training of graduate students across disciplines at a digital scholarship center: the University of Virginia Scholars' Lab. Almost everything we offer at the Scholars' Lab—from the contributions made by our internal research projects to our workshops and partnerships with faculty and our hosted graduate fellowship programs—features *praxis* as a central concern. We take an uncommon position for a library-based service unit, in that we are more oriented toward building up people, as mentors and partners, than toward building websites or tools as ann on-request service. In our teaching, we are therefore always careful to emphasize *how* and *why* to make or do things, and to promote design thinking and reflective practice. *Praxis* is core to the ethos of the Scholars' Lab and to nearly all of our interactions with collaborators. A pedagogy of *praxis* appreciates built objects and working systems, but attends equally to processes and manners of making, and ensures that both are instructive.
 
-We have two graduate fellowship programs where we emphasize the
-importance of praxis in humanities work: Digital Humanities Fellowship
-and Praxis Program Fellowship. Our students are typically humanities
-graduate students, and with a few exceptions are PhD students who have
-yet to advance.  Our Digital Humanities Fellowship offers students time
-and community to implement a digital component of their research.
-Scaffolding tech skills with mentorship models an iterative process of
-collaborative work. The Fellowship carves out time for reflection,
-experimentation, as well as support for implementing the results into a
-digital project.
-
-Similarly, our Praxis Program reimagines graduate training in the
-humanities for the demands of the digital age. The Praxis Programs
-unites six graduate students from across the humanities and social
-sciences to design and build a digital tool. Like the Digital
-Humanities Fellowship, the Praxis Program seeks to provide time--time
-for exploration, for reflection, for collaboration--to reimagine what
-scholarly work looks like. Praxis Fellows work alongside the Scholars'
-Lab staff throughout the cycle of creating, building, and launching a
-digital project.
-
-Again, with both of these programs, we're more interested in developing
-people instead of products, and we'll often consider a collaboration a
-success if we've influenced processes through which students conduct and
-evaluate their scholarly work. A pedagogy of praxis attends equally
-to processes and manner and ensures that the process of making is
-instructive.
 
 ### Rationale and Criteria
 
-Our approach in selecting resources involved three broad requirements:
-First, we decided to select publicly available, open access resources.
-Praxis seems most successful when as many impedements to development and
-process are removed.
+We have selected the following resources according to three broad principles.
 
-Second, we wanted to include a range of resources: Syllabi that discuss,
-organize, and present praxis to students; Lessons that detail process
-behind a particular praxis assigment and possible outcomes; Project
-showcases that demonstrate completed assigments and reflections on
-those assigments, or elaborate on the tools and process that go into
-making a particular project; Articles that reflect and elaborate on the
-importance of praxis for teaching and learning. It was important to us
-to include resources ranging in application and type, to show that
-considerations of praxis can be addressed in a variety of formats.
+First, we chose resources that were open-access, available under fair use, or otherwise publicly available.
 
-Third, we felt it important to select resources that demonstrate the
-interconnected, symbiotic relationships among praxis, theory, and
-product. All of these resources highlight this importance: that none can
-or should exist in isolation, and exploring one should necessarily
-mean exploring the others. In particular, we feature resources that
-succeed in demonstrating that the best way to learn the value of praxis
-is by *acutally engaging in praxis*. These resources do not just talk
-about the importance of praxis in the abstract; They all provide
-examples of praxis in action.
+Second, we wanted to include a range of resources: syllabi that discuss, organize, and present *praxis*-oriented theories and activities to students; sample lessons that themselves embody *praxis* in the sense that they detail processes and outline possible, theoretically-informed outcomes; reflective demonstrations of completed projects or showcases of the tools and processes that have gone into making a particular project, object, or system; and articles that discuss the importance of *praxis* for teaching and learning. It was important to us to include resources that varied in type or format and in domain of application, to show that *praxis* can enter the classroom in a variety of ways.
+
+Finally, we felt it important to select resources that demonstrate the interconnected, symbiotic relationships among *praxis,* theory, and product. All of these resources highlight this importance: that none can or should exist in isolation, and exploring one should necessarily mean exploring the others. We feature resources that, in our view, succeed in demonstrating that the best way to learn the value of *praxis* is by *actively engaging in it*. These resources do not just talk about the importance of *praxis* in the abstract: they provide examples of embodied, theoretically-informed learning in action.
 
 ## Curated Pedagogical Resources
 
@@ -257,18 +198,14 @@ Throughout the syllabus, its clear that Kelly considers his students to
 be his collaborators, and depends on them to shape the course as much,
 if not more, than he himself shapes it.
 
-### Praxis Network
+### The Scholars' Lab Praxis Program and Praxis Network
 
-The Praxis Network models eight allied, but differently-inflected
-humanities and social sciences methods training. Each program is engaged
-in rethinking pedagogy and collaborative partnerships
+The Praxis Program reimagines graduate training in the humanities for the demands of the digital age. Each year, we bring together six graduate students from across the humanities and social sciences to design, build, and reflect on a digital tool. Praxis Fellows work alongside the Scholars' Lab staff throughout the cycle of creating, building, and launching a digital project.
 
-Realizing each institution is made up of a particular ecosystem unique
-to a specific institution, the Praxis Network showcases examples of
-approaches to collaborative, humanities-based methods training for
-digital work. Insitutitions and programs seeking to enact similar
-efforts can compare missions, structures, research foci, support,
-strategic directions, and nuts and bolts of the Praxis Network
+The Praxis Network was inspired by the Scholars' Lab Praxis Program, and showcases eight international examples of differing
+approaches to collaborative, humanities-based digital methods training. Insitutitions seeking to develop similar
+efforts can compare missions, structures, research foci, funding models, and
+strategic directions of the Praxis Network
 programs.
 
 ### “Victorian Literature + Victorian Informatics”
@@ -425,3 +362,5 @@ Creative Strategies for Literacy* by Rob Pope.” JAC Online 17.1:
 Johanna Drucker, “Theory as Praxis: The Poetics of Electronic
 Textuality,”
 https://muse.jhu.edu/journals/modernism-modernity/v009/9.4drucker.html
+
+**Scholars' Lab Charter**, http://scholarslab.org/about/charter/
