@@ -30,44 +30,100 @@
   (syllabus)
 * “The Wikiblitz: A Wikipedia Editing Assignment in a First Year
   Undergraduate Class (Spring 2012 version),” Shawn Graham,
-      http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/
+  http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/
   (class exercise)
 * “Writing on Clay,” **A Better Pencil: Readers, Writers, and the
   Digital Revolution,** Dennis E. Baron,
-  http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA71#v=onepage&q=modeling%20clay&f=false (class exercise)
+  http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA71#v=onepage&q=modeling%20clay&f=false
+  (class exercise)
 
 ## Curatorial Statement
 
-We understand *praxis* as thoughtful performance: a way of making and building less oriented toward the construction of end-products and more concerned
-with exposing the processes through which ideas become objects in space or actions in time. In the classroom, a praxis-oriented pedagogy helps students engage with theory through concrete action, and promotes understanding of the complex, playful, and materially-grounded ways in which theoretical or ideological concepts can be realized, exposed, critiqued, and iteratively generated. The pedagogical resources gathered here connect with *praxis* as an opportunity to:
+We understand *praxis* as thoughtful performance: a way of making and
+building less oriented toward the construction of end-products and more
+concerned with exposing the processes through which ideas become objects
+in space or actions in time. In the classroom, a praxis-oriented
+pedagogy helps students engage with theory through concrete action, and
+promotes understanding of the complex, playful, and materially-grounded
+ways in which theoretical or ideological concepts can be realized,
+exposed, critiqued, and iteratively generated. The pedagogical resources
+gathered here connect with *praxis* as an opportunity to:
 
-* **embody an idea.** Students make or do something that represents an existing theory or idea. They demonstrate prior understanding through successful performance and instantiation.
-* **illuminate an idea.** In the process of making or doing something, students reveal theoretical and intellectual complexities that may have been hidden to them in their initial understanding.
-* **critique an idea.** Students challenge or question existing concepts or ideologies by building or performing new alternatives.
-* **generate an idea.** New theories or concepts arise, often iteratively and playfully, through performance, construction of objects or systems, and embodied understanding.
+* **embody an idea.** Students make or do something that represents an
+  existing theory or idea. They demonstrate prior understanding through
+  successful performance and instantiation.
+* **illuminate an idea.** In the process of making or doing something,
+  students reveal theoretical and intellectual complexities that may
+  have been hidden to them in their initial understanding.
+* **critique an idea.** Students challenge or question existing concepts
+  or ideologies by building or performing new alternatives.
+* **generate an idea.** New theories or concepts arise, often
+  iteratively and playfully, through performance, construction of
+  objects or systems, and embodied understanding.
 
 ### Our Own Pedagogy
 
-We have compiled these resources from the perspective of three digital humanities practitioners engaged in the extra-curricular mentoring and methodological training of graduate students across disciplines at a digital scholarship center: the University of Virginia [Scholars' Lab](http://scholarslab.org/). Almost everything we offer at the Scholars' Lab—from the contributions made by our internal research projects to our workshops and partnerships with faculty and our hosted graduate fellowship programs—features *praxis* as a central concern. We take an uncommon position for a library-based service unit, in that we are more oriented toward building up people, as mentors and partners, than toward building websites or tools as an on-request service. In our teaching, we are therefore always careful to emphasize *how* and *why* to make or do things, and to promote design thinking and reflective practice. *Praxis* is core to the ethos of the Scholars' Lab and to nearly all of our interactions with collaborators.  We take this tack because we feel that students, scholars, and cultural heritage or information professionals alike need to engage more deeply with making and building as a way of knowing, in preparation for more active and hopeful futures for the humanities. A pedagogy of *praxis* appreciates built objects and working systems, but attends equally to processes and manners of making, and ensures that both are instructive.
+We have compiled these resources from the perspective of three digital
+humanities practitioners engaged in the extra-curricular mentoring and
+methodological training of graduate students across disciplines at a
+digital scholarship center: the University of Virginia [Scholars’
+Lab](http://scholarslab.org/). Almost everything we offer at the
+Scholars' Lab—from the contributions made by our internal research
+projects to our workshops and partnerships with faculty and our hosted
+graduate fellowship programs—features *praxis* as a central concern. We
+take an uncommon position for a library-based service unit, in that we
+are more oriented toward building up people, as mentors and partners,
+than toward building websites or tools as an on-request service. In our
+teaching, we are therefore always careful to emphasize *how* and *why*
+to make or do things, and to promote design thinking and reflective
+practice. *Praxis* is core to the ethos of the Scholars' Lab and to
+nearly all of our interactions with collaborators.  We take this tack
+because we feel that students, scholars, and cultural heritage or
+information professionals alike need to engage more deeply with making
+and building as a way of knowing, in preparation for more active and
+hopeful futures for the humanities. A pedagogy of *praxis* appreciates
+built objects and working systems, but attends equally to processes and
+manners of making, and ensures that both are instructive.
 
 
 ### Rationale and Criteria
 
-We have selected the following resources according to three broad principles.
+We have selected the following resources according to three broad
+principles.
 
-First, we chose resources that were open-access, available under fair use, or otherwise publicly available.
+First, we chose resources that were open-access, available under fair
+use, or otherwise publicly available.
 
-Second, we wanted to include a range of resources: syllabi that discuss, organize, and present *praxis*-oriented theories and activities to students; sample lessons that themselves embody *praxis* in the sense that they detail processes and outline possible, theoretically-informed outcomes; reflective demonstrations of completed projects or showcases of the tools and processes that have gone into making a particular project, object, or system; and articles that discuss the importance of *praxis* for teaching and learning. It was important to us to include resources that varied in type or format and in domain of application, to show that *praxis* can enter the classroom in a variety of ways.
+Second, we wanted to include a range of resources: syllabi that discuss,
+organize, and present *praxis*-oriented theories and activities to
+students; sample lessons that themselves embody *praxis* in the sense
+that they detail processes and outline possible, theoretically-informed
+outcomes; reflective demonstrations of completed projects or showcases
+of the tools and processes that have gone into making a particular
+project, object, or system; and articles that discuss the importance of
+*praxis* for teaching and learning. It was important to us to include
+resources that varied in type or format and in domain of application, to
+show that *praxis* can enter the classroom in a variety of ways.
 
-Finally, we felt it important to select resources that demonstrate the interconnected, symbiotic relationships among *praxis,* theory, and product. All of these resources highlight this importance: that none can or should exist in isolation, and exploring one should necessarily mean exploring the others. We feature resources that, in our view, succeed in demonstrating that the best way to learn the value of *praxis* is by *actively engaging in it*. These resources do not just talk about the importance of *praxis* in the abstract: they provide examples of embodied, theoretically-informed learning in action.
+Finally, we felt it important to select resources that demonstrate the
+interconnected, symbiotic relationships among *praxis,* theory, and
+product. All of these resources highlight this importance: that none can
+or should exist in isolation, and exploring one should necessarily mean
+exploring the others. We feature resources that, in our view, succeed in
+demonstrating that the best way to learn the value of *praxis* is by
+*actively engaging in it*. These resources do not just talk about the
+importance of *praxis* in the abstract: they provide examples of
+embodied, theoretically-informed learning in action.
 
 ## Curated Pedagogical Resources
 
 ### “Bibliocircuitry and the Design of the Alien Everday”
 
 * Screenshot: ![screenshot](images/bibliocircuitry.jpg)
-* Source URL: http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051
-* Name of Creator: Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, Kathryn Skutlin
+* Source URL:
+  http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051
+* Name of Creator: Charity Hancock, Clifford Hichar, Carlea Holl-Jensen,
+  Kari Kraus, Cameron Mozafari, Kathryn Skutlin
 * Attribution Information:
 
 An article detailing student exploration of the concept of *reflective
@@ -82,10 +138,13 @@ out ways to alter or enhance their interface.
 * Screenshot:![screen shot](images/feminist-theory.jpg)
 * Source URL:
   [http://adanewmedia.org/2014/07/issue5-hurst/](http://adanewmedia.org/2014/07/issue5-hurst/)
-* Name of Creator:
-  [Rachel Alpha Johnston Hurst](http://www.rachelhurst.ca/Dr._Rachel_Alpha_Johnston_Hurst/Welcome%21.html)
+* Name of Creator: [Rachel Alpha Johnston
+  Hurst](http://www.rachelhurst.ca/Dr._Rachel_Alpha_Johnston_Hurst/Welcome%21.html)
 * Attribution Information: Rachel Alpha Johnston Hurst is an associate
-  professor of [Women's and Gender Studies](http://sites.stfx.ca/womens_and_gender_studies/) at [St. Francis Xavier University](http://www.stfx.ca/) in Antigonish, Nova Scotia.
+  professor of [Women's and Gender
+  Studies](http://sites.stfx.ca/womens_and_gender_studies/) at [St.
+  Francis Xavier University](http://www.stfx.ca/) in Antigonish, Nova
+  Scotia.
 
 *Doing Feminist Theory through Digital Video* is a reflective essay
 detailing Hurst's undergraduate assignment and the literature informing
@@ -96,10 +155,10 @@ considerations (e.g. Feminism) shape and can by shaped by praxis
 applications.
 
 Hurst applies Paulo Freire's definition of praxis, 'reflection and
-action upon the world in order to change it' (Freire, [1970] 2000: 51), to her assignment with the
-goal of fostering sustained deep reflection, both of the theoretical
-foundations for her course as well as on the student's emerging
-scholarly voice.
+action upon the world in order to change it' (Freire, [1970] 2000: 51),
+to her assignment with the goal of fostering sustained deep reflection,
+both of the theoretical foundations for her course as well as on the
+student's emerging scholarly voice.
 
 A semester-long, service-learing project is difficult to integrate into
 an existing course. Rather, Hurst's article outlines strategies for
@@ -113,11 +172,26 @@ work.
 * Source URL:
   [http://dada.cca.edu/~drosner/materials/syllabus.html](http://dada.cca.edu/~drosner/materials/syllabus.html)
 * Name of Creator: [Daniela K. Rosner](http://danielarosner.com)
-* Attribution Information: Daniela Rosner is an assistant professor of [Human Centered Design and Engineering](http://www.hcde.washington.edu/) and co-directs the [TAT Lab](http://depts.washington.edu/tatlab/blog/) at the (University of Washington)[http://www.washington.edu/]
+* Attribution Information: Daniela Rosner is an assistant professor of
+  [Human Centered Design and
+  Engineering](http://www.hcde.washington.edu/) and co-directs the [TAT
+  Lab](http://depts.washington.edu/tatlab/blog/) at the (University of
+  Washington)[http://www.washington.edu/]
 
-(Extra)ordinary *Materials* is a course focusing on "thinking and experimenting with materials that have extraordinary properties around ordinary practices as an entry point for identifying new affordances in form-giving work." With a detailed syllabus and a blend of intriguing readings, hands-on experiements, and student participation, (Extra)ordinary *Materials* exemplifies praxis through deep investigations of specific materials along side explorations of the ideas of "mutability, reproduction, age and belonging."
+(Extra)ordinary *Materials* is a course focusing on "thinking and
+experimenting with materials that have extraordinary properties around
+ordinary practices as an entry point for identifying new affordances in
+form-giving work." With a detailed syllabus and a blend of intriguing
+readings, hands-on experiements, and student participation,
+(Extra)ordinary *Materials* exemplifies praxis through deep
+investigations of specific materials along side explorations of the
+ideas of "mutability, reproduction, age and belonging."
 
-Readings are paired with hands-on, both individual and class, investigations and reflective reports. Rosner includes thoughtful learning outcomes along with explicit pairings of hands-on work and theoretical readings to best explore range of materials and properties.
+Readings are paired with hands-on, both individual and class,
+investigations and reflective reports. Rosner includes thoughtful
+learning outcomes along with explicit pairings of hands-on work and
+theoretical readings to best explore range of materials and
+properties.
 
 ### “How Did They Make That?”
 
@@ -132,11 +206,11 @@ Readings are paired with hands-on, both individual and class, investigations and
 Miriam Posner offers a modest gallery of various digital projects, and
 breaks each down into the tools and techniques used in their production.
 The goal is to show how each is made, so others might also make similar
-projects and build from them. The site would be a perfect starting
-point for students before their own digital projects. Have students
-visit the site, then visit each example project, to see how the list of
-parts and techniques used on a project correspond to specific results.
-Get a feel for what different types of projects offer.
+projects and build from them. The site would be a perfect starting point
+for students before their own digital projects. Have students visit the
+site, then visit each example project, to see how the list of parts and
+techniques used on a project correspond to specific results.  Get a feel
+for what different types of projects offer.
 
 In addition to the post, Posner also has a [video of How Did They Make
 That](http://miriamposner.com/blog/how-did-they-make-that-the-video/).
@@ -155,11 +229,10 @@ kits help humanists explore questions and topics related to cultural
 history. They are not intended to be simple instruction manuals, with
 step-by-step instructions to complete, but rather encourage inquiry,
 modification, and reflection. Examples include: [*Electric
-Jewels*](http://maker.uvic.ca/kit1/), which
-explores 19th-century electric jewelry, and [*Tennis for
-Two*](http://maker.uvic.ca/tennis/), which
-looks at the first video game.  The kits exemplify that praxis is deeper
-than simply eschewing prodecure or problem solving.
+Jewels*](http://maker.uvic.ca/kit1/), which explores 19th-century
+electric jewelry, and [*Tennis for Two*](http://maker.uvic.ca/tennis/),
+which looks at the first video game.  The kits exemplify that praxis is
+deeper than simply eschewing prodecure or problem solving.
 
 One obvious way to integrate these into the classroom is to try
 recreating the projects themselves. From there, see if students can
@@ -191,20 +264,35 @@ if not more, than he himself shapes it.
 * Screenshot: ![screenshot](images/praxisnetwork.jpg)
 * Source URL: [http://praxis-network.org/](http://praxis-network.org/)
 
-The [Praxis Program](http://praxis.scholarslab.org)reimagines graduate training in the humanities for the demands of the digital age. Each year, we bring together six graduate students from across the humanities and social sciences to design, build, and reflect on a digital tool. Praxis Fellows work alongside the Scholars' Lab staff throughout the cycle of creating, building, and launching a digital project.
+The [Praxis Program](http://praxis.scholarslab.org)reimagines graduate
+training in the humanities for the demands of the digital age. Each
+year, we bring together six graduate students from across the humanities
+and social sciences to design, build, and reflect on a digital tool.
+Praxis Fellows work alongside the Scholars' Lab staff throughout the
+cycle of creating, building, and launching a digital project.
 
-The Praxis Network was inspired by the Scholars' Lab [Praxis Program](http://praxis.scholarslab.org) and Michigan State University's [Cultural Heritage Informatics (CHI) Initiative](http://chi.anthropology.msu.edu/) and [CHI Fieldschool](http://chi.anthropology.msu.edu/fieldschool/). Both programs exemplify differing approaches to collaborative, humanities-based digital methods training. The Network gathers 6 additional models together to better enable insitutitions seeking to develop similar efforts to compare missions, structures, research foci, funding models, and strategic directions.
+The Praxis Network was inspired by the Scholars' Lab [Praxis
+Program](http://praxis.scholarslab.org) and Michigan State University's
+[Cultural Heritage Informatics (CHI)
+Initiative](http://chi.anthropology.msu.edu/) and [CHI
+Fieldschool](http://chi.anthropology.msu.edu/fieldschool/). Both
+programs exemplify differing approaches to collaborative,
+humanities-based digital methods training. The Network gathers 6
+additional models together to better enable insitutitions seeking to
+develop similar efforts to compare missions, structures, research foci,
+funding models, and strategic directions.
 
 ### “Victorian Literature + Victorian Informatics”
 * Screenshot: ![screenshot](images/victorian-literature.jpg)
 * Source
   URL:[http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/]
   (http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/)
-* Name of Creator: [Rachel Sagner Buurma](http://rachelsagnerbuurma.org/)
+* Name of Creator: [Rachel Sagner
+  Buurma](http://rachelsagnerbuurma.org/)
 * Attribution Information: Rachel Sagner Buurma is an associate
-  professor in the
-  [Department of English
-  Literature](http://www.swarthmore.edu/english-literature) at [Swarthmore College](http://www.swarthmore.edu).
+  professor in the [Department of English
+  Literature](http://www.swarthmore.edu/english-literature) at
+  [Swarthmore College](http://www.swarthmore.edu).
 
 Victorian Literature and Victorian Inforamtics is a richly detailed
 syllabus exploring "canonical Victorian literature through the lens of
@@ -216,29 +304,30 @@ re-reading/re-making literary texts.
 With a variety of workshops, demonstrations, discussions, and readings,
 Buurma's syllabus exemplifies ways to incorporate new critical methods
 and interpretations into familiar material. Individual topics along with
-related readings, tools, and workshops can readily be incorporated into
-an existing course, or a new course could be developed along a similar
-model.
+related readings, tools, and workshops can readily be incorporated
+into an existing course, or a new course could be developed along a
+similar model.
 
-### “The Wikiblitz: A Wikipedia Editing Assignment in a First Year Undergraduate Class (Spring 2012 version)”
+### “The Wikiblitz: A Wikipedia Editing Assignment in a First Year
+Undergraduate Class (Spring 2012 version)”
 * Screenshot: ![screen shot](images/wikiblitz.jpg)
 * Source URL:
   [http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/](
   http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/)
 * Name of Creator: [Shawn Graham](http://www.graeworks.net/)
 * Attribution Information: Shawn Graham is an assistant professor in the
-  [Department of History](http://www.carleton.ca/history/) at
-  [Carleton University](http://carleton.ca/).
+  [Department of History](http://www.carleton.ca/history/) at [Carleton
+  University](http://carleton.ca/).
 
-Graham describes an in-class assignment designed to
-"explore how knowledge is created and represented on Wikipedia, by
-working to improve a single article." Intended to provide deep
-understandings of how knowledge is created by and used via digital
-platforms, Graham's assignment was situated in a course exploring
-historical materials on the Internet. Graham's article reflects on the
-overall course and the specifics of the Wikipedia assignment with a
-particular focus on preparing students to engage with and critique the
-tools for wriitng history in our digital age.
+Graham describes an in-class assignment designed to "explore how
+knowledge is created and represented on Wikipedia, by working to improve
+a single article." Intended to provide deep understandings of how
+knowledge is created by and used via digital platforms, Graham's
+assignment was situated in a course exploring historical materials on
+the Internet. Graham's article reflects on the overall course and the
+specifics of the Wikipedia assignment with a particular focus on
+preparing students to engage with and critique the tools for wriitng
+history in our digital age.
 
 Graham's article is particularly useful as he outlines the context in
 which the assignment was situated into the broader course, the expected
@@ -250,9 +339,13 @@ for other courses.
 ### “Writing on Clay”
 
 * Screenshot: ![screen shot](images/writing-on-clay.jpg)
-* Source URL: [Lesson Plan, Writing on Clay](http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA74#v=onepage&q=modeling%20clay&f=false)
-* Name of Creator: [Dennis E. Baron](http://www.english.illinois.edu/-people-/faculty/debaron/)
-* Attribution Information: Dennis Baron is a professor of [English](http://www.english.illinois.edu/) at the [University of Illinois](http://illinois.edu/).
+* Source URL: [Lesson Plan, Writing on
+  Clay](http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA74#v=onepage&q=modeling%20clay&f=false)
+* Name of Creator: [Dennis E.
+  Baron](http://www.english.illinois.edu/-people-/faculty/debaron/)
+* Attribution Information: Dennis Baron is a professor of
+  [English](http://www.english.illinois.edu/) at the [University of
+  Illinois](http://illinois.edu/).
 
 Baron's deceptively simple in-class exercise on writing with clay
 encourages students to think about how technology affects their writing,
@@ -260,8 +353,8 @@ reading, and understanding. Foregrounding the materiality of expression,
 Baron's exercise makes obvious the many layers of the physical act of
 communication. To write on clay, the student must prepare the surface,
 estimate the expected space needed for the writing, adjust methods for
-correcting mistakes or revising the text, as well as calls into question
-ways of sharing and preserving the finished writing.
+correcting mistakes or revising the text, as well as calls into
+question ways of sharing and preserving the finished writing.
 
 Baron's exercise requires little pre-planning, but does demand time for
 reflection and in-class discussion.
@@ -286,7 +379,8 @@ reflection and in-class discussion.
 ## 6. Works Cited
 
 Baron, Dennis E. *A Better Pencil: Readers, Writers, and the Digital
-Revolution* New York: Oxford University Press, 2009. Web. 20 October 2014.
+Revolution* New York: Oxford University Press, 2009. Web. 20 October
+2014.
 
 Belojevic, Nina. “The Kits for Cultural History at HASTAC 2014.” *Maker
 Lab in the Humanities*. University of Victoria, 5 September 2014. Web.
@@ -299,10 +393,10 @@ Swarthmore College, Fall 2014. Web. 20 October 2014.
 Freire, Paulo. *Pedagogy of the Oppressed.* New York: Continuum, 2000.
 Print.
 
-Graham, Shawn. “The Wikiblitz: A Wikipedia Editing Assignment in a First Year
-Undergraduate Class (Spring 2012 version),” *Writing History in the
-Digital Age.* Jack Dougherty and Kristen Nawrotzki, eds. Web. 20 October
-2014.
+Graham, Shawn. “The Wikiblitz: A Wikipedia Editing Assignment in a First
+Year Undergraduate Class (Spring 2012 version),” *Writing History in the
+Digital Age.* Jack Dougherty and Kristen Nawrotzki, eds. Web. 20
+October 2014.
 <http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/>
 
 Hancock, Charity, et. al. “Bibliocircuitry and the Design of the Alien
@@ -310,8 +404,8 @@ Everday.” *Textual Cultures* 8.1 (2013): n. pag. Web. 20 October 2014.
 <http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051>
 
 Hurst, Rachel Alpha Johnston. “Doing Feminist Theory with Digital
-Video.” *Ada: A Journal of Gender, New Media, and Technology*. No. 5 (2014):
-n. pag. Web. 20 October 2014.
+Video.” *Ada: A Journal of Gender, New Media, and Technology*. No. 5
+(2014): n. pag. Web. 20 October 2014.
 <http://adanewmedia.org/2014/07/issue5-hurst/>
 
 Ito, Mizuko, et. al. “Connected Learning: An Agenda for Research and
@@ -326,20 +420,22 @@ Pope, Rob. *Textual Intervention: Critical and Creative Strategies for
 Literary Studies.* Psychology Press, 1995.
 
 Posner, Miriam. "How Did They Make That?" *Miriam Posner: Blog* 29
-August 2013. Web. 20 October 2014. <http://miriamposner.com/blog/how-did-they-make-that/>
+August 2013. Web. 20 October 2014.
+<http://miriamposner.com/blog/how-did-they-make-that/>
 
 *Praxis Network* <http://praxis-network.org>
 
 Rosner, Daniela K. “Extraordinary Materials.” California College of the
-Arts, Fall 2011. Web. 20 October 2014. <http://dada.cca.edu/~drosner/materials/>
+Arts, Fall 2011. Web. 20 October 2014.
+<http://dada.cca.edu/~drosner/materials/>
 
 Thomas, Douglas and John Seely Brown. *New Culture of Learning:
 Cultivating the Imagination for a World of Constant Change.* n.p. 2011.
 Print.
 
-Stacey, David E. Review of *Textual Intervention: Critical and
-Creative Strategies for Literacy*, by Rob Pope. *JAC Online* 17.1
-(1997): n. pag. Web. 20 October 2014.
+Stacey, David E. Review of *Textual Intervention: Critical and Creative
+Strategies for Literacy*, by Rob Pope. *JAC Online* 17.1 (1997): n. pag.
+Web. 20 October 2014.
 <http://www.jaconlinejournal.com/archives/vol17.1/stacy-textual.pdf]>
 
 Drucker, Johanna. “Theory as Praxis: The Poetics of Electronic
