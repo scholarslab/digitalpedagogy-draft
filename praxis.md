@@ -100,7 +100,10 @@ embodied, theoretically-informed learning in action.
 
 * Screenshot: ![screenshot](images/bibliocircuitry.jpg)
 * Source URL: [http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051](http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051)
-* Name of Creators: Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, Kathryn Skutlin
+* Copy of the Resource:
+  [files/bibliocircuitry.pdf](files/bibliocircuitry.pdf)
+* Name of Creator: Charity Hancock, Clifford Hichar, Carlea Holl-Jensen,
+  Kari Kraus, Cameron Mozafari, Kathryn Skutlin
 
 An article detailing student exploration of the concept of *reflective
 design* by investigating the book as interface. The projects perfectly
@@ -218,6 +221,8 @@ their kits.
 * Screenshot: ![screenshot](images/lying-about-the-past.jpg)
 * Source URL:
   [http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf](http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf)
+* Copy of the Resource:
+  [files/lying-about-the-past.pdf](files/lying-about-the-past.pdf)
 * Name of Creator: [T. Mills Kelly](http://edwired.org/)
 * Attribution Information: T. Mills Kelly is Associate Professor of
   [History at George Mason University](http://historyarthistory.gmu.edu/) and Associate Director of the [Roy
@@ -259,8 +264,7 @@ funding models, and strategic directions.
 ### “Victorian Literature + Victorian Informatics”
 * Screenshot: ![screenshot](images/victorian-literature.jpg)
 * Source
-  URL:[http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/]
-  (http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/)
+  URL:[http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/](http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/)
 * Name of Creator: [Rachel Sagner
   Buurma](http://rachelsagnerbuurma.org/)
 * Attribution Information: Rachel Sagner Buurma is an associate
