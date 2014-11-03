@@ -10,32 +10,31 @@
 
 * “Bibliocircuitry and the Design of the Alien Everday,” Charity
   Hancock, et. al.,
-  http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051
+  [http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051]( http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051)
   (sample student projects)
 * “Doing Feminist Theory with Digital Video,” Rachel Alpha Johnston
-  Hurst, http://adanewmedia.org/2014/07/issue5-hurst/ (article)
+  Hurst, [http://adanewmedia.org/2014/07/issue5-hurst/](http://adanewmedia.org/2014/07/issue5-hurst/) (article)
 * “Extraordinary Materials,” Daniela K. Rosner,
-  http://dada.cca.edu/~drosner/materials/syllabus.html (syllabus)
+  [http://dada.cca.edu/~drosner/materials/syllabus.html](http://dada.cca.edu/~drosner/materials/syllabus.html) (syllabus)
 * "How Did They Make That?" Miriam Posner,
-  http://miriamposner.com/blog/how-did-they-make-that/ (tech
+  [http://miriamposner.com/blog/how-did-they-make-that/](http://miriamposner.com/blog/how-did-they-make-that/) (tech
   showcase/how-to)
 * “The Kits for Cultural History at HASTAC 2014,” Nina Belojevic,
-  http://maker.uvic.ca/lima/ (sample student projects)
+  [http://maker.uvic.ca/lima/]( http://maker.uvic.ca/lima/) (sample student projects)
 * “Lying about the Past,” T. Mills Kelly,
-  http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf
+  [http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf](http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf)
   (syllabus)
-* **Praxis Network**, http://praxis-network.org (institutional models)
+* **Praxis Network**, [http://praxis-network.org](http://praxis-network.org) (institutional models)
 * “Victorian Literature + Victorian Informatics,” Rachel Sagner Buurma,
-  http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/
+  [http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/](http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/)
   (syllabus)
 * “The Wikiblitz: A Wikipedia Editing Assignment in a First Year
   Undergraduate Class (Spring 2012 version),” Shawn Graham,
-  http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/
+  [http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/](http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/)
   (class exercise)
 * “Writing on Clay,” **A Better Pencil: Readers, Writers, and the
   Digital Revolution,** Dennis E. Baron,
-  http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA71#v=onepage&q=modeling%20clay&f=false
-  (class exercise)
+  [http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA71#v=onepage&q=modeling%20clay&f=false](http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA71#v=onepage&q=modeling%20clay&f=false) (class exercise)
 
 ## Curatorial Statement
 
@@ -63,27 +62,7 @@ gathered here connect with *praxis* as an opportunity to:
 
 ### Our Own Pedagogy
 
-We have compiled these resources from the perspective of three digital
-humanities practitioners engaged in the extra-curricular mentoring and
-methodological training of graduate students across disciplines at a
-digital scholarship center: the University of Virginia [Scholars’
-Lab](http://scholarslab.org/). Almost everything we offer at the
-Scholars' Lab—from the contributions made by our internal research
-projects to our workshops and partnerships with faculty and our hosted
-graduate fellowship programs—features *praxis* as a central concern. We
-take an uncommon position for a library-based service unit, in that we
-are more oriented toward building up people, as mentors and partners,
-than toward building websites or tools as an on-request service. In our
-teaching, we are therefore always careful to emphasize *how* and *why*
-to make or do things, and to promote design thinking and reflective
-practice. *Praxis* is core to the ethos of the Scholars' Lab and to
-nearly all of our interactions with collaborators.  We take this tack
-because we feel that students, scholars, and cultural heritage or
-information professionals alike need to engage more deeply with making
-and building as a way of knowing, in preparation for more active and
-hopeful futures for the humanities. A pedagogy of *praxis* appreciates
-built objects and working systems, but attends equally to processes and
-manners of making, and ensures that both are instructive.
+We have compiled these resources from the perspective of three digital humanities practitioners engaged in the extra-curricular mentoring and methodological training of graduate students across disciplines at a digital scholarship center: the University of Virginia [Scholars' Lab](http://scholarslab.org/). Almost everything we offer at the Scholars' Lab—from the contributions made by our internal research projects to our workshops and partnerships with faculty and our hosted graduate fellowship programs—features *praxis* as [a central concern](http://scholarslab.org/about/charter/). We take an uncommon position for a library-based service unit, in that we are more oriented toward building up people, as mentors and partners, than toward building websites or tools as an on-request service. In our teaching, we are therefore always careful to emphasize *how* and *why* to make or do things, and to promote design thinking and reflective practice. *Praxis* is core to the ethos of the Scholars' Lab and to nearly all of our interactions with collaborators.  We take this tack because we feel that students, scholars, and cultural heritage or information professionals alike need to engage more deeply with making and building as a way of knowing, in preparation for more active and hopeful futures for the humanities. A pedagogy of *praxis* appreciates built objects and working systems, but attends equally to processes and manners of making, and ensures that both are instructive.
 
 
 ### Rationale and Criteria
@@ -120,11 +99,8 @@ embodied, theoretically-informed learning in action.
 ### “Bibliocircuitry and the Design of the Alien Everday”
 
 * Screenshot: ![screenshot](images/bibliocircuitry.jpg)
-* Source URL:
-  http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051
-* Name of Creator: Charity Hancock, Clifford Hichar, Carlea Holl-Jensen,
-  Kari Kraus, Cameron Mozafari, Kathryn Skutlin
-* Attribution Information:
+* Source URL: [http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051](http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051)
+* Name of Creators: Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, Kathryn Skutlin
 
 An article detailing student exploration of the concept of *reflective
 design* by investigating the book as interface. The projects perfectly
@@ -198,7 +174,7 @@ properties.
 * Screenshot: ![screenshot](images/how-did-they-make-that.png)
 * Source URL:
   [http://miriamposner.com/blog/how-did-they-make-that/](http://miriamposner.com/blog/how-did-they-make-that/)
-* Name of Creator: Miriam Posner
+* Name of Creator: [Miriam Posner](http://miriamposner.com/)
 * Attribution Information: Posner coordiates and teaches in the [Digital
   Humanites program at UCLA](http://www.cdh.ucla.edu/). She has a Ph.D.
   from Yale University, in Film Studies and American Studies.
@@ -218,10 +194,8 @@ That](http://miriamposner.com/blog/how-did-they-make-that-the-video/).
 ### “The Kits for Cultural History at HASTAC 2014”
 
 * Screenshot: ![screenshot](images/kits-for-cultural-history.png)
-* Source URL: http://maker.uvic.ca/lima/
-* Name of Creator: Nina Belojevic
-* Attribution Information: Nina Belojevic is the Assistant Director of
-  the [Maker Lab at the University of Victoria](http://maker.uvic.ca).
+* Source URL: [http://maker.uvic.ca/lima/](http://maker.uvic.ca/lima/)
+* Name of Creator: [Nina Belojevic](http://maker.uvic.ca/author/nbelojevic/) is Assistant Director of the [Maker Lab in the Humanities, University of Victoria](http://maker.uvic.ca/)
 
 Nina Belojevic provides an introduction and rationale for the *Kits for
 Cultural History* projects at the University of Victoria Makerlab. The
@@ -244,10 +218,10 @@ their kits.
 * Screenshot: ![screenshot](images/lying-about-the-past.jpg)
 * Source URL:
   [http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf](http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf)
-* Name of Creator: T. Mills Kelly
+* Name of Creator: [T. Mills Kelly](http://edwired.org/)
 * Attribution Information: T. Mills Kelly is Associate Professor of
-  History at George Mason University and Associate Director of the Roy
-  Rosenzweig Center for History and New Media.
+  [History at George Mason University](http://historyarthistory.gmu.edu/) and Associate Director of the [Roy
+  Rosenzweig Center for History and New Media](http://chnm.gmu.edu/).
 
 In 2001, T. Mills Kelly taught a course entitled "Lying about the Past."
 The course covered how to debunk historial hoaxes, and for the final
