@@ -108,7 +108,6 @@ process as well as implementation, Hurst points to methods for
 demystifying knowledge creation through itterative, collaborative
 work.
 
-
 ### “Extraordinary Materials”
 * Screenshot: ![screen shot](images/extraordinary-materials.jpg)
 * Source URL:
@@ -139,20 +138,26 @@ visit the site, then visit each example project, to see how the list of
 parts and techniques used on a project correspond to specific results.
 Get a feel for what different types of projects offer.
 
+In addition to the post, Posner also has a [video of How Did They Make
+That](http://miriamposner.com/blog/how-did-they-make-that-the-video/).
+
 ### “The Kits for Cultural History at HASTAC 2014”
 
 * Screenshot: ![screenshot](images/kits-for-cultural-history.png)
-* Source URL
-* Name of Creator
-* Attribution Information:
+* Source URL: http://maker.uvic.ca/lima/
+* Name of Creator: Nina Belojevic
+* Attribution Information: Nina Belojevic is the Assistant Director of
+  the [Maker Lab at the University of Victoria](http://maker.uvic.ca).
 
 Nina Belojevic provides an introduction and rationale for the *Kits for
 Cultural History* projects at the University of Victoria Makerlab. The
 kits help humanists explore questions and topics related to cultural
 history. They are not intended to be simple instruction manuals, with
 step-by-step instructions to complete, but rather encourage inquiry,
-modification, and reflection. Examples include: *Electric Jewels*, which
-explores 19th-century electric jewelry, and *Tennis for Two*, which
+modification, and reflection. Examples include: [*Electric
+Jewels*](http://maker.uvic.ca/kit1/), which
+explores 19th-century electric jewelry, and [*Tennis for
+Two*](http://maker.uvic.ca/tennis/), which
 looks at the first video game.  The kits exemplify that praxis is deeper
 than simply eschewing prodecure or problem solving.
 
@@ -167,7 +172,9 @@ their kits.
 * Source URL:
   [http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf](http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf)
 * Name of Creator: T. Mills Kelly
-* Attribution Information:
+* Attribution Information: T. Mills Kelly is Associate Professor of
+  History at George Mason University and Associate Director of the Roy
+  Rosenzweig Center for History and New Media.
 
 In 2001, T. Mills Kelly taught a course entitled "Lying about the Past."
 The course covered how to debunk historial hoaxes, and for the final
@@ -278,60 +285,67 @@ reflection and in-class discussion.
 
 ## 6. Works Cited
 
-“Bibliocircuitry and the Design of the Alien Everday,” Charity Hancock,
-et. al.,
-http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051
-(sample student projects)
+Baron, Dennis E. *A Better Pencil: Readers, Writers, and the Digital
+Revolution* New York: Oxford University Press, 2009. Web. 20 October 2014.
 
-“Doing Feminist Theory with Digital Video,” Rachel Alpha Johnston Hurst,
-http://adanewmedia.org/2014/07/issue5-hurst/ (article)
+Belojevic, Nina. “The Kits for Cultural History at HASTAC 2014.” *Maker
+Lab in the Humanities*. University of Victoria, 5 September 2014. Web.
+20 October 2014. <http://maker.uvic.ca/lima/>
 
-“Extraordinary Materials,” Daniela K. Rosner,
-http://dada.cca.edu/~drosner/materials/syllabus.html (syllabus)
+Buurma, Rachel Sagner. “Victorian Literature + Victorian Informatics.”
+Swarthmore College, Fall 2014. Web. 20 October 2014.
+<http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/>
 
-"How Did They Make That?" Miriam Posner,
-http://miriamposner.com/blog/how-did-they-make-that/ (tech
-showcase/how-to)
+Freire, Paulo. *Pedagogy of the Oppressed.* New York: Continuum, 2000.
+Print.
 
-“The Kits for Cultural History at HASTAC 2014,” Nina Belojevic,
-http://maker.uvic.ca/lima/ (sample student projects)
+Graham, Shawn. “The Wikiblitz: A Wikipedia Editing Assignment in a First Year
+Undergraduate Class (Spring 2012 version),” *Writing History in the
+Digital Age.* Jack Dougherty and Kristen Nawrotzki, eds. Web. 20 October
+2014.
+<http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/>
 
-“Lying about the Past,” T. Mills Kelly,
-http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf
-(syllabus)
+Hancock, Charity, et. al. “Bibliocircuitry and the Design of the Alien
+Everday.” *Textual Cultures* 8.1 (2013): n. pag. Web. 20 October 2014.
+<http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051>
 
-**Praxis Network**, http://praxis-network.org (institutional models)
+Hurst, Rachel Alpha Johnston. “Doing Feminist Theory with Digital
+Video.” *Ada: A Journal of Gender, New Media, and Technology*. No. 5 (2014):
+n. pag. Web. 20 October 2014.
+<http://adanewmedia.org/2014/07/issue5-hurst/>
 
-“Victorian Literature + Victorian Informatics,” Rachel Sagner Buurma,
-http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/
-(syllabus)
+Ito, Mizuko, et. al. “Connected Learning: An Agenda for Research and
+Design.” *dml Research Hub*, January, 2013. Web.
+<http://dmlhub.net/publications/connected-learning-agenda-research-and-design>
 
-“The Wikiblitz: A Wikipedia Editing Assignment in a First Year
-Undergraduate Class (Spring 2012 version),” Shawn Graham,
-http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/
-(class exercise)
+Kelly, T. Mills. “Lying about the Past.” George Mason University. Fall
+2008. Version 1.2. Web. 20 October 2014.
+<http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf>
 
-“Writing on Clay,” **A Better Pencil: Readers, Writers, and the Digital
-Revolution,** Dennis E. Baron,
-http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA71#v=onepage&q=modeling%20clay&f=false
+Pope, Rob. *Textual Intervention: Critical and Creative Strategies for
+Literary Studies.* Psychology Press, 1995.
 
-Freire, Paulo. Pedagogy of the oppressed. [New York]: Herder and Herder, 1970.
+Posner, Miriam. "How Did They Make That?" *Miriam Posner: Blog* 29
+August 2013. Web. 20 October 2014. <http://miriamposner.com/blog/how-did-they-make-that/>
 
-**New Culture of Learning**, http://www.newcultureoflearning.com/
+*Praxis Network* <http://praxis-network.org>
 
-“Connected Learning: An Agenda for Research and Design,”
-http://clrn.dmlhub.net/publications/connected-learning-an-agenda-for-research-and-design
+Rosner, Daniela K. “Extraordinary Materials.” California College of the
+Arts, Fall 2011. Web. 20 October 2014. <http://dada.cca.edu/~drosner/materials/>
 
-Rob Pope, *Textual Intervention: Critical and Creative Strategies for
-Literary Studies.* Psychology Press, 1995. — and this 1995 review:
+Thomas, Douglas and John Seely Brown. *New Culture of Learning:
+Cultivating the Imagination for a World of Constant Change.* n.p. 2011.
+Print.
 
-David E. Stacey, Book Review: *Textual Intervention: Critical and
-Creative Strategies for Literacy* by Rob Pope.” JAC Online 17.1:
-[http://www.jaconlinejournal.com/archives/vol17.1.html] Direct link:
-[http://www.jaconlinejournal.com/archives/vol17.1/stacy-textual.pdf]
+Stacey, David E. Review of *Textual Intervention: Critical and
+Creative Strategies for Literacy*, by Rob Pope. *JAC Online* 17.1
+(1997): n. pag. Web. 20 October 2014.
+<http://www.jaconlinejournal.com/archives/vol17.1/stacy-textual.pdf]>
 
-Johanna Drucker, “Theory as Praxis: The Poetics of Electronic
-Textuality,”
-https://muse.jhu.edu/journals/modernism-modernity/v009/9.4drucker.html
+Drucker, Johanna. “Theory as Praxis: The Poetics of Electronic
+Textuality.” *Modernism/Modernity* 9.4 (2002): 683-691. Web. 20 October
+2014.
+<https://muse.jhu.edu/journals/modernism-modernity/v009/9.4drucker.html>
 
-**Scholars' Lab Charter**, http://scholarslab.org/about/charter/
+Scholars’ Lab. “Charter.” University of Virginia Library, August 2014.
+Web. 20 October 2014. <http://scholarslab.org/about/charter/>
