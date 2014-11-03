@@ -361,20 +361,19 @@ reflection and in-class discussion.
 
 ## 5. Related Materials (Bulleted List)
 
-* **Pedagogy of the Oppressed**,
-  http://fablearn.stanford.edu/fellows/blog/pedagogy-oppressed-practice-praxis
-* **New Culture of Learning**, http://www.newcultureoflearning.com/
-* “Connected Learning: An Agenda for Research and Design,”
-  http://clrn.dmlhub.net/publications/connected-learning-an-agenda-for-research-and-design
-* Rob Pope, *Textual Intervention: Critical and Creative Strategies for
-  Literary Studies.* Psychology Press, 1995. — and this 1995 review:
-  David E. Stacey, Book Review: *Textual Intervention: Critical and
-  Creative Strategies for Literacy* by Rob Pope.” JAC Online 17.1:
-  [http://www.jaconlinejournal.com/archives/vol17.1.html] Direct link:
-  [http://www.jaconlinejournal.com/archives/vol17.1/stacy-textual.pdf]
-* Johanna Drucker, “Theory as Praxis: The Poetics of Electronic
-  Textuality,”
-  https://muse.jhu.edu/journals/modernism-modernity/v009/9.4drucker.html
+* Drucker, Johanna. “Theory as Praxis: The Poetics of Electronic
+Textuality.” *Modernism/Modernity* 9.4 (2002): 683-691. Web. 20 October
+2014. <https://muse.jhu.edu/journals/modernism-modernity/v009/9.4drucker.html>
+* Freire, Paulo. *Pedagogy of the Oppressed.* New York: Continuum, 2000.
+Print.
+* Ito, Mizuko, et. al. “Connected Learning: An Agenda for Research and
+Design.” *dml Research Hub*, January, 2013. Web.
+<http://dmlhub.net/publications/connected-learning-agenda-research-and-design>
+* Pope, Rob. *Textual Intervention: Critical and Creative Strategies for
+Literary Studies.* Psychology Press, 1995.
+* Thomas, Douglas and John Seely Brown. *New Culture of Learning:
+Cultivating the Imagination for a World of Constant Change.* n.p. 2011.
+Print.
 
 ## 6. Works Cited
 
@@ -389,6 +388,11 @@ Lab in the Humanities*. University of Victoria, 5 September 2014. Web.
 Buurma, Rachel Sagner. “Victorian Literature + Victorian Informatics.”
 Swarthmore College, Fall 2014. Web. 20 October 2014.
 <http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/>
+
+Drucker, Johanna. “Theory as Praxis: The Poetics of Electronic
+Textuality.” *Modernism/Modernity* 9.4 (2002): 683-691. Web. 20 October
+2014.
+<https://muse.jhu.edu/journals/modernism-modernity/v009/9.4drucker.html>
 
 Freire, Paulo. *Pedagogy of the Oppressed.* New York: Continuum, 2000.
 Print.
@@ -429,19 +433,14 @@ Rosner, Daniela K. “Extraordinary Materials.” California College of the
 Arts, Fall 2011. Web. 20 October 2014.
 <http://dada.cca.edu/~drosner/materials/>
 
-Thomas, Douglas and John Seely Brown. *New Culture of Learning:
-Cultivating the Imagination for a World of Constant Change.* n.p. 2011.
-Print.
+Scholars’ Lab. “Charter.” University of Virginia Library, August 2014.
+Web. 20 October 2014. <http://scholarslab.org/about/charter/>
 
 Stacey, David E. Review of *Textual Intervention: Critical and Creative
 Strategies for Literacy*, by Rob Pope. *JAC Online* 17.1 (1997): n. pag.
 Web. 20 October 2014.
 <http://www.jaconlinejournal.com/archives/vol17.1/stacy-textual.pdf]>
 
-Drucker, Johanna. “Theory as Praxis: The Poetics of Electronic
-Textuality.” *Modernism/Modernity* 9.4 (2002): 683-691. Web. 20 October
-2014.
-<https://muse.jhu.edu/journals/modernism-modernity/v009/9.4drucker.html>
-
-Scholars’ Lab. “Charter.” University of Virginia Library, August 2014.
-Web. 20 October 2014. <http://scholarslab.org/about/charter/>
+Thomas, Douglas and John Seely Brown. *New Culture of Learning:
+Cultivating the Imagination for a World of Constant Change.* n.p. 2011.
+Print.
