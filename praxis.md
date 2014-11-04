@@ -99,7 +99,7 @@ One obvious way to integrate these into the classroom is to try recreating the p
 
 ### “Lying about the Past”
 
-* Screenshot: ![screenshot](images/lying-about-the-past.jpg)
+* Screenshot: ![screenshot](images/lying-about-the-past.png)
 * Source URL: [http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf](http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf)
 * Copy of the Resource: [files/lying-about-the-past.pdf](files/lying-about-the-past.pdf)
 * Name of Creator: [T. Mills Kelly](http://edwired.org/)
