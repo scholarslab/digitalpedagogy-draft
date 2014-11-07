@@ -30,7 +30,7 @@ We understand *praxis* as thoughtful performance: a way of making and building l
 
 ### Our Own Pedagogy
 
-We have compiled these resources from the perspective of three digital humanities practitioners engaged in the extra-curricular mentoring and methodological training of graduate students across disciplines at a digital scholarship center: the University of Virginia [Scholars' Lab](http://scholarslab.org/). Almost everything we offer at the Scholars' Lab—from the contributions made by our internal research projects to our workshops and partnerships with faculty and our hosted graduate fellowship programs—features *praxis* as [a central concern](http://scholarslab.org/about/charter/). We take an uncommon position for a library-based service unit, in that we are more oriented toward building up people, as mentors and partners, than toward building websites or tools as an on-request service. In our teaching, we are therefore always careful to emphasize *how* and *why* to make or do things, and to promote design thinking and reflective practice. *Praxis* is core to the ethos of the Scholars' Lab and to nearly all of our interactions with collaborators.  We take this tack because we feel that students, scholars, and cultural heritage or information professionals alike need to engage more deeply with making and building as a way of knowing, in preparation for more active and hopeful futures for the humanities. A pedagogy of *praxis* appreciates built objects and working systems, but attends equally to processes and manners of making, and ensures that both are instructive.
+We have compiled these resources from the perspective of three digital humanities practitioners engaged in the extra-curricular mentoring and methodological training of graduate students across disciplines at a digital scholarship center: the University of Virginia [Scholars' Lab](http://scholarslab.org/). Almost everything we offer at the Scholars' Lab—from the contributions made by our internal research projects to our workshops and partnerships with faculty, our support of undergraduate research, and our hosted graduate fellowship programs—features *praxis* as [a central concern](http://scholarslab.org/about/charter/). We take an uncommon position for a library-based service unit, in that we are more oriented toward building up people, as mentors and partners, than toward building websites or tools as an on-request service. In our teaching, we are therefore always careful to emphasize *how* and *why* to make or do things, and to promote design thinking and reflective practice. *Praxis* is core to the ethos of the Scholars' Lab and to nearly all of our interactions with collaborators.  We take this tack because we feel that students, scholars, and cultural heritage or information professionals alike need to engage more deeply with making and building as a way of knowing, in preparation for more active and hopeful futures for the humanities. A pedagogy of *praxis* appreciates built objects and working systems, but attends equally to processes and manners of making, and ensures that both are instructive.
 
 
 ### Rationale and Criteria
@@ -41,7 +41,7 @@ First, we chose resources that were open-access, available under fair use, or ot
 
 Second, we wanted to include a range of resources: syllabi that discuss, organize, and present *praxis*-oriented theories and activities to students; sample lessons that themselves embody *praxis* in the sense that they detail processes and outline possible, theoretically-informed outcomes; reflective demonstrations of completed projects or showcases of the tools and processes that have gone into making a particular project, object, or system; and articles that discuss the importance of *praxis* for teaching and learning. It was important to us to include resources that varied in type or format and in domain of application, to show that *praxis* can enter the classroom in a variety of ways.
 
-Finally, we felt it important to select resources that demonstrate the interconnected, symbiotic relationships among *praxis,* theory, and product. All of these resources highlight this importance: that none can or should exist in isolation, and exploring one should necessarily mean exploring the others. We feature resources that, in our view, succeed in demonstrating that the best way to learn the value of *praxis* is by *actively engaging in it*. These resources do not just talk about the importance of *praxis* in the abstract: they provide examples of embodied, theoretically-informed learning in action.
+Finally, we felt it important to select resources that demonstrate the interconnected, symbiotic relationships among *praxis,* theory, and product. All of these resources highlight this importance: that none can or should be understood to exist in isolation, and exploring one should necessarily mean exploring the others. We feature resources that, in our view, succeed in demonstrating that the best way to learn is through *active engagement*. These resources do not just talk about the importance of *praxis* in the abstract: they provide examples of embodied, theoretically-informed learning in action.
 
 ## Curated Pedagogical Resources
 
@@ -52,7 +52,7 @@ Finally, we felt it important to select resources that demonstrate the interconn
 * Copy of the Resource: [files/bibliocircuitry.pdf](files/bibliocircuitry.pdf)
 * Name of Creator: Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, Kathryn Skutlin
 
-An article detailing student exploration of the concept of *reflective design* by investigating the book as interface. The projects perfectly highlight the way that an emphasis on, and exposure of, process leads to unforseen insights. They also emphasize that *digital* often involves considerations regarding hardware and physical/tactile design. Teachers might a particular object or set of objects and ask students to figure out ways to alter or enhance their interface.
+An article detailing student exploration of the concept of *reflective design* through projects that investigate the book as interface. This activity perfectly highlights the way that exposure to and emphasis on process leads to unforeseen insight. These student authors also emphasize that *digital* work requires consideration of hardware and physical/tactile design. Instructors inspired by this article might select a particular type of object and ask students to devise ways to alter or enhance the ways users can interact with it.
 
 ### “Doing Feminist Theory through Digital Video”
 * Screenshot:![screen shot](images/feminist-theory.jpg)
@@ -60,11 +60,11 @@ An article detailing student exploration of the concept of *reflective design* b
 * Name of Creator: [Rachel Alpha Johnston Hurst](http://www.rachelhurst.ca/Dr._Rachel_Alpha_Johnston_Hurst/Welcome%21.html)
 * Attribution Information: Rachel Alpha Johnston Hurst is an associate professor of [Women's and Gender Studies](http://sites.stfx.ca/womens_and_gender_studies/) at [St.  Francis Xavier University](http://www.stfx.ca/) in Antigonish, Nova Scotia.
 
-*Doing Feminist Theory through Digital Video* is a reflective essay detailing Hurst's undergraduate assignment and the literature informing the development of the assignment. Noticing her undergraduates were struggling to connect the rich theoretical discussions within the classroom to 'real life', Hurst details how specific theoretical considerations (e.g. Feminism) shape and can by shaped by praxis applications.
+*Doing Feminist Theory through Digital Video* is a reflective essay detailing an undergraduate assignment and the literature informing the development of the assignment. Noticing her students were struggling to connect rich theoretical discussions within the classroom to "real life," Hurst offers a pathway for specific theoretical considerations (like feminism) to shape and be shaped by the application of praxis.
 
-Hurst applies Paulo Freire's definition of praxis, 'reflection and action upon the world in order to change it' (Freire, [1970] 2000: 51), to her assignment with the goal of fostering sustained deep reflection, both of the theoretical foundations for her course as well as on the student's emerging scholarly voice.
+Hurst applies Paulo Freire's definition of praxis ("reflection and action upon the world in order to change it") with the goal of fostering sustained deep reflection, both of the theoretical foundations of her course as well as on the student's emerging scholarly voices (Freire, [1970] 2000: 51).
 
-A semester-long, service-learing project is difficult to integrate into an existing course. Rather, Hurst's article outlines strategies for nurturing deep learning through relfection and praxis. Reflecting on her process as well as implementation, Hurst points to methods for demystifying knowledge creation through itterative, collaborative work.
+A semester-long, service-learning project is difficult to integrate into a content-based course. Hurst's article outlines strategies for nurturing deep learning through reflection and praxis. Reflecting on her process as well as implementation, Hurst points to methods for demystifying knowledge creation through iterative, collaborative work.
 
 ### “Extraordinary Materials”
 * Screenshot: ![screen shot](images/extraordinary-materials.jpg)
@@ -72,9 +72,9 @@ A semester-long, service-learing project is difficult to integrate into an exist
 * Name of Creator: [Daniela K. Rosner](http://danielarosner.com)
 * Attribution Information: Daniela Rosner is an assistant professor of [Human Centered Design and Engineering](http://www.hcde.washington.edu/) and co-directs the [TAT Lab](http://depts.washington.edu/tatlab/blog/) at the (University of Washington)[http://www.washington.edu/]
 
-(Extra)ordinary *Materials* is a course focusing on "thinking and experimenting with materials that have extraordinary properties around ordinary practices as an entry point for identifying new affordances in form-giving work." With a detailed syllabus and a blend of intriguing readings, hands-on experiements, and student participation, (Extra)ordinary *Materials* exemplifies praxis through deep investigations of specific materials along side explorations of the ideas of "mutability, reproduction, age and belonging."
+(Extra)ordinary *Materials* is a Human-Centered Design and Engineering course focusing on "thinking and experimenting with materials that have extraordinary properties around ordinary practices as an entry point for identifying new affordances in form-giving work." With a detailed syllabus and a blend of intriguing readings, hands-on experiments, and student participation, (Extra)ordinary *Materials* exemplifies praxis through deep investigation of material culture and objects alongside exploration of the concepts of "mutability, reproduction, age and belonging."
 
-Readings are paired with hands-on, both individual and class, investigations and reflective reports. Rosner includes thoughtful learning outcomes along with explicit pairings of hands-on work and theoretical readings to best explore range of materials and properties.
+Readings are paired with hands-on, individual and group investigations and reflective reports. Rosner includes thoughtful learning outcomes along with explicit pairings of experiential work and theoretical readings to best explore a range of materials and properties.
 
 ### “How Did They Make That?”
 
@@ -83,19 +83,19 @@ Readings are paired with hands-on, both individual and class, investigations and
 * Name of Creator: [Miriam Posner](http://miriamposner.com/)
 * Attribution Information: Posner coordiates and teaches in the [Digital Humanites program at UCLA](http://www.cdh.ucla.edu/). She has a Ph.D.  from Yale University, in Film Studies and American Studies.
 
-Miriam Posner offers a modest gallery of various digital projects, and breaks each down into the tools and techniques used in their production. The goal is to show how each is made, so others might also make similar projects and build from them. The site would be a perfect starting point for students before their own digital projects. Have students visit the site, then visit each example project, to see how the list of parts and techniques used on a project correspond to specific results.  Get a feel for what different types of projects offer.
+Miriam Posner offers a modest gallery of various digital projects, virtually disassembling them according to the tools and techniques used in their production. Her goal is to show how each is made, so that others might feel empowered to build similar projects or extend the ones highlighted. The site is a helpful starting point for students beginning their own digital projects. Have students explore the site, then visit each example project, to see how the list of parts and techniques correspond to and are manifestedin specific results. Get a feel for the affordances of different types of digital projects.
 
-In addition to the post, Posner also has a [video of How Did They Make That](http://miriamposner.com/blog/how-did-they-make-that-the-video/).
+In addition to the post, Posner also offers a [video version](http://miriamposner.com/blog/how-did-they-make-that-the-video/) of "How Did They Make That."
 
-### “The Kits for Cultural History at HASTAC 2014”
+### "The Kits for Cultural History at HASTAC 2014"
 
 * Screenshot: ![screenshot](images/kits-for-cultural-history.png)
 * Source URL: [http://maker.uvic.ca/lima/](http://maker.uvic.ca/lima/)
-* Name of Creator: [Nina Belojevic](http://maker.uvic.ca/author/nbelojevic/) is Assistant Director of the [Maker Lab in the Humanities, University of Victoria](http://maker.uvic.ca/)
+* Name of Creator: [Nina Belojevic](http://maker.uvic.ca/author/nbelojevic/) * Attribution Information: Belojevic is Assistant Director of the [Maker Lab in the Humanities, University of Victoria](http://maker.uvic.ca/)
 
-Nina Belojevic provides an introduction and rationale for the *Kits for Cultural History* projects at the University of Victoria Makerlab. The kits help humanists explore questions and topics related to cultural history. They are not intended to be simple instruction manuals, with step-by-step instructions to complete, but rather encourage inquiry, modification, and reflection. Examples include: [*Electric Jewels*](http://maker.uvic.ca/kit1/), which explores 19th-century electric jewelry, and [*Tennis for Two*](http://maker.uvic.ca/tennis/), which looks at the first video game.  The kits exemplify that praxis is deeper than simply eschewing prodecure or problem solving.
+Nina Belojevic provides an introduction and rationale for the *Kits for Cultural History* project at the University of Victoria Makerlab. These kits help humanists explore questions and topics related to history and culture. They are not intended to be simple instruction manuals, with step-by-step instructions to complete, but rather serve as examples, encouraging inquiry, modification, and reflection. Kits include: [*Electric Jewels*](http://maker.uvic.ca/kit1/), which explores 19th-century wearables, and [*Tennis for Two*](http://maker.uvic.ca/tennis/), which looks at the first video game.  The kits suggest that *praxis* goes deeper than simple problem solving.
 
-One obvious way to integrate these into the classroom is to try recreating the projects themselves. From there, see if students can create their own, and document the process through which they create their kits.
+One obvious way to integrate these kits into the classroom is to attempt a group project recreating or extending one. From there, students could be asked to create their own kits, and to write rationales, documenting the process through which they researched and designed them.
 
 ### “Lying about the Past”
 
@@ -105,28 +105,27 @@ One obvious way to integrate these into the classroom is to try recreating the p
 * Name of Creator: [T. Mills Kelly](http://edwired.org/)
 * Attribution Information: T. Mills Kelly is Associate Professor of [History at George Mason University](http://historyarthistory.gmu.edu/) and Associate Director of the [Roy Rosenzweig Center for History and New Media](http://chnm.gmu.edu/).
 
-In 2001, T. Mills Kelly taught a course entitled "Lying about the Past." The course covered how to debunk historial hoaxes, and for the final project students had to create their own and see if they could fool anyone.
+Mills Kelly has taught several iterations of an undergraduate history course entitled "Lying about the Past." The course conveys historical research methods and ethics by asking students to examine and debunk historical hoaxes. For their final projects, students create a convincing hoax of their own. [The results](http://www.theatlantic.com/technology/archive/2012/05/how-the-professor-who-fooled-wikipedia-got-caught-by-reddit/257134/) have been explosive.
 
-We think the most beneficial way to integrate this into teaching is to take note of how Kelly presents the class, the topic explored.  Throughout the syllabus, its clear that Kelly considers his students to be his collaborators, and depends on them to shape the course as much, if not more, than he himself shapes it.
+Alongside the emphasis on understanding history by re-shaping it, we find this an excellent example of a praxis-based syllabus, in which it's clear that Kelly considers his students to be his collaborators, and depends on their active engagement to shape the course.
 
 ### The Scholars' Lab Praxis Program and Praxis Network
 * Screenshot: ![screenshot](images/praxisnetwork.jpg)
 * Source URL: [http://praxis-network.org/](http://praxis-network.org/)
 
-The [Praxis Program](http://praxis.scholarslab.org)reimagines graduate training in the humanities for the demands of the digital age. Each year, we bring together six graduate students from across the humanities and social sciences to design, build, and reflect on a digital tool.  Praxis Fellows work alongside the Scholars' Lab staff throughout the cycle of creating, building, and launching a digital project.
+The [Praxis Program](http://praxis.scholarslab.org) is an extracurricular attempt to reimagine graduate training in the humanities for the demands of the digital age. Each year, the Scholars' Lab brings together six graduate students from across the humanities and social sciences to theorize, design, build, and reflect on the process of constructing a digital tool.  Praxis Fellows work alongside the Scholars' Lab staff throughout the cycle of creating and launching a digital project.
 
-The Praxis Network was inspired by the Scholars' Lab [Praxis Program](http://praxis.scholarslab.org) and Michigan State University's [Cultural Heritage Informatics (CHI) Initiative](http://chi.anthropology.msu.edu/) and [CHI Fieldschool](http://chi.anthropology.msu.edu/fieldschool/). Both programs exemplify differing approaches to collaborative, humanities-based digital methods training. The Network gathers 6 additional models together to better enable insitutitions seeking to develop similar efforts to compare missions, structures, research foci, funding models, and strategic directions.
+The Praxis Network was inspired by the Scholars' Lab [Praxis Program](http://praxis.scholarslab.org) and by Michigan State University's [Cultural Heritage Informatics (CHI) Initiative](http://chi.anthropology.msu.edu/) and [CHI Fieldschool](http://chi.anthropology.msu.edu/fieldschool/). Both programs exemplify differing approaches to collaborative, humanities-based digital methods training. The Network gathers together 6 additional international models to  enable institutions seeking to develop similar efforts to compare missions, structures, research foci, funding models, and strategic directions of successful sister programs.
 
 ### “Victorian Literature + Victorian Informatics”
 * Screenshot: ![screenshot](images/victorian-literature.jpg)
-* Source
-  URL:[http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/](http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/)
+* Source URL:[http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/](http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/)
 * Name of Creator: [Rachel Sagner Buurma](http://rachelsagnerbuurma.org/)
 * Attribution Information: Rachel Sagner Buurma is an associate professor in the [Department of English Literature](http://www.swarthmore.edu/english-literature) at [Swarthmore College](http://www.swarthmore.edu).
 
-Victorian Literature and Victorian Inforamtics is a richly detailed syllabus exploring "canonical Victorian literature through the lens of Victorian Informatian theory and knowledge organization practices." Buurma blends close, middle-distance, and distant reading techniques with an emphasis on digital tools as a way of reading and re-reading/re-making literary texts.
+Victorian Literature and Victorian Informatics is a richly detailed English syllabus exploring "canonical Victorian literature through the lens of Victorian Information theory and knowledge organization practices." Buurma blends close, middle-distant, and distant reading techniques with an emphasis on digital methods for re-reading/re-making literary texts.
 
-With a variety of workshops, demonstrations, discussions, and readings, Buurma's syllabus exemplifies ways to incorporate new critical methods and interpretations into familiar material. Individual topics along with related readings, tools, and workshops can readily be incorporated into an existing course, or a new course could be developed along a similar model.
+With a variety of workshops, demonstrations, discussions, and readings, Buurma's syllabus is exemplary in its incorporation of fresh critical methods and interpretative tools into familiar material. Related readings, tools, and workshops could be readily incorporated into an existing course, or a new course could be developed along a similar, topical and content-based model.
 
 ### “The Wikiblitz: A Wikipedia Editing Assignment in a First Year Undergraduate Class (Spring 2012 version)”
 
@@ -135,9 +134,9 @@ With a variety of workshops, demonstrations, discussions, and readings, Buurma's
 * Name of Creator: [Shawn Graham](http://www.graeworks.net/)
 * Attribution Information: Shawn Graham is an assistant professor in the [Department of History](http://www.carleton.ca/history/) at [Carleton University](http://carleton.ca/).
 
-Graham describes an in-class assignment designed to "explore how knowledge is created and represented on Wikipedia, by working to improve a single article." Intended to provide deep understandings of how knowledge is created by and used via digital platforms, Graham's assignment was situated in a course exploring historical materials on the Internet. Graham's article reflects on the overall course and the specifics of the Wikipedia assignment with a particular focus on preparing students to engage with and critique the tools for wriitng history in our digital age.
+Graham describes an in-class assignment designed to "explore how knowledge is created and represented on Wikipedia, by working to improve a single article." This assignment was situated in a course exploring historical materials on the Internet. Graham reflects on the overall course and the specifics of the Wikipedia assignment with a particular focus on preparing students to engage with and critique the tools available for writing history in our digital age.
 
-Graham's article is particularly useful as he outlines the context in which the assignment was situated into the broader course, the expected and unexpected outcomes, his rubric, and student feedback. Graham details the work invested in preparing students for the 2-course sessions assignment, which smooth the process of adapting the assignment for other courses.
+Graham's article is particularly useful in that it outlines how the assignment fit into the broader course, its expected and unexpected outcomes, his rubric, and shares student feedback. Graham details the work invested in preparing students for the 2-session assignment, which could smooth the process of adapting this idea for other courses.
 
 ### “Writing on Clay”
 
@@ -146,9 +145,9 @@ Graham's article is particularly useful as he outlines the context in which the 
 * Name of Creator: [Dennis E.  Baron](http://www.english.illinois.edu/-people-/faculty/debaron/)
 * Attribution Information: Dennis Baron is a professor of [English](http://www.english.illinois.edu/) at the [University of Illinois](http://illinois.edu/).
 
-Baron's deceptively simple in-class exercise on writing with clay encourages students to think about how technology affects their writing, reading, and understanding. Foregrounding the materiality of expression, Baron's exercise makes obvious the many layers of the physical act of communication. To write on clay, the student must prepare the surface, estimate the expected space needed for the writing, adjust methods for correcting mistakes or revising the text, as well as calls into question ways of sharing and preserving the finished writing.
+Baron's deceptively simple in-class exercise with writing on clay encourages students to think about how context-specific technology affects their composition practices, reading, and understanding across media. Foregrounding the materiality of expression, this activity makes obvious how many layers support the physical act of communication. To write on clay, a student must prepare his or her surface, estimate the expected space needed for writing, adjust methods for correcting mistakes or revising the text, and call into question ways of sharing and preserving the finished writing.
 
-Baron's exercise requires little pre-planning, but does demand time for reflection and in-class discussion.
+An exercise like this requires little pre-planning, but does demand time for reflection and in-class discussion.
 
 ## 5. Related Materials (Bulleted List)
 
