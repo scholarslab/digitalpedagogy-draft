@@ -28,6 +28,8 @@ We understand *praxis* as thoughtful performance: a way of making and building l
 * **critique an idea.** Students challenge or question existing concepts or ideologies by building or performing new alternatives.
 * **generate an idea.** New theories or concepts arise, often iteratively and playfully, through performance, construction of objects or systems, and embodied understanding.
 
+Attention to *praxis* can encourage students to look beyond academic literature in developing an understanding of the content of a course. It can inspire them to contribute to knowledge representation and creation in new ways, and to move with confidence across disciplinary and professional boundaries. (See, for instance, the work of hairdresser Janet Stephens, now a published experimental archaeologist who has [untangled the mysteries](http://online.wsj.com/news/articles/SB10001424127887324900204578286272195339456) of Roman coiffures.) It can also foster life-long learning, as students move outward from our classrooms into the working world.
+
 ### Our Own Pedagogy
 
 We have compiled these resources from the perspective of three digital humanities practitioners engaged in the extra-curricular mentoring and methodological training of graduate students across disciplines at a digital scholarship center: the University of Virginia [Scholars' Lab](http://scholarslab.org/). Almost everything we offer at the Scholars' Lab—from the contributions made by our internal research projects to our workshops and partnerships with faculty, our support of undergraduate research, and our hosted graduate fellowship programs—features *praxis* as [a central concern](http://scholarslab.org/about/charter/). We take an uncommon position for a library-based service unit, in that we are more oriented toward building up people, as mentors and partners, than toward building websites or tools as an on-request service. In our teaching, we are therefore always careful to emphasize *how* and *why* to make or do things, and to promote design thinking and reflective practice. *Praxis* is core to the ethos of the Scholars' Lab and to nearly all of our interactions with collaborators.  We take this tack because we feel that students, scholars, and cultural heritage or information professionals alike need to engage more deeply with making and building as a way of knowing, in preparation for more active and hopeful futures for the humanities. A pedagogy of *praxis* appreciates built objects and working systems, but attends equally to processes and manners of making, and ensures that both are instructive.
@@ -178,6 +180,8 @@ Hurst, Rachel Alpha Johnston. “Doing Feminist Theory with Digital Video.” *A
 Ito, Mizuko, et. al. “Connected Learning: An Agenda for Research and Design.” *dml Research Hub*, January, 2013. Web.  <http://dmlhub.net/publications/connected-learning-agenda-research-and-design>
 
 Kelly, T. Mills. “Lying about the Past.” George Mason University. Fall 2008. Version 1.2. Web. 20 October 2014.  <http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf>
+
+Pesta, Abigail. "On Pins and Needles: Stylist Turns Ancient Hairdo Debate on Its Head." *Wall Street Journal.* 6 February 2013. Web. <http://online.wsj.com/news/articles/SB10001424127887324900204578286272195339456>
 
 Pope, Rob. *Textual Intervention: Critical and Creative Strategies for Literary Studies.* Psychology Press, 1995.
 
